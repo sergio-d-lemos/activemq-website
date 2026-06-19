@@ -22,6 +22,7 @@ import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
+import LatestReleases from '../components/LatestReleases';
 
 export default function Home(): JSX.Element {
     return (
@@ -90,6 +91,8 @@ export default function Home(): JSX.Element {
                         </div>
                     </div>
                 </section>
+
+                <LatestReleases/>
 
                 <HomepageFeatures/>
 
