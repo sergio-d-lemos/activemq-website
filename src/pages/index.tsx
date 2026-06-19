@@ -80,13 +80,13 @@ export default function Home(): JSX.Element {
                                 <li>KahaDB &amp; JDBC options for persistence</li>
                             </ul>
                             <div className={styles.componentButtons}>
-                                <Link className="button button--secondary button--md" to="/components/classic">
-                                    Find out more <FontAwesomeIcon icon={faInfoCircle} />
-                                </Link>
-                                <Link className="button button--secondary button--md" to="/components/classic/download">
+                                <Link className={clsx("button button--secondary button--md", styles.decoratedButtons, styles.downloadButton)} to="/components/classic/download">
                                     Download Latest <FontAwesomeIcon icon={faDownload} />
                                 </Link>
-                                <Link className="button button--secondary button--md" to="/components/classic/documentation/">
+                                <Link className={clsx("button button--secondary button--md", styles.decoratedButtons)} to="/components/classic">
+                                    Find out more <FontAwesomeIcon icon={faInfoCircle} />
+                                </Link>
+                                <Link className={clsx("button button--secondary button--md", styles.decoratedButtons)} to="/components/classic/documentation/">
                                     Read the Docs <FontAwesomeIcon icon={faBook} />
                                 </Link>
                             </div>

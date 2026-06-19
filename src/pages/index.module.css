@@ -68,10 +68,21 @@
   color: var(--activemq-pink);
 }
 
+.downloadButton {
+  background-color: #912d54;
+  color: white !important;
+}
+
 .componentButtons {
   display: flex;
   gap: 1rem;
   margin-top: 1rem;
+}
+
+.decoratedButtons:hover {
+  background-color: var(--activemq-pink);
+  border-color: var(--activemq-pink);
+  color: white;
 }
 
 .artemisNotice {
