@@ -56,7 +56,6 @@ const config: Config = {
           blogSidebarTitle: 'News',
           blogSidebarCount: 'ALL',
           showReadingTime: false,
-          editUrl: 'https://github.com/apache/activemq-website/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
