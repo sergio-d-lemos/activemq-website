@@ -31,6 +31,17 @@ export default function Home(): JSX.Element {
                     <div className={styles.heroContent}>
                         <div className={styles.heroText}>
                             <h1 className="hero__title">Flexible &amp; Powerful Open Source<br/>Multi-Protocol Messaging</h1>
+                            <div className={styles.componentButtons}>
+                                <Link className="button button--secondary button--md" to="/contributing">
+                                    Contribute
+                                </Link>
+                                <Link className="button button--secondary button--md" to="/contact#mailing">
+                                    Mailing Lists
+                                </Link>
+                                <Link className="button button--secondary button--md" to="/issues">
+                                    Issues
+                                </Link>
+                            </div>
                         </div>
                         <div className={styles.heroLogo}>
                             <img src="/img/activemq_logo_white_vertical.png" alt="Apache ActiveMQ" />
@@ -72,27 +83,23 @@ export default function Home(): JSX.Element {
                                 <Link className="button button--secondary button--md" to="/components/classic/download">
                                     Download Latest
                                 </Link>
+                                <Link className="button button--secondary button--md" to="/components/classic/documentation/">
+                                    Read the Docs
+                                </Link>
                             </div>
                         </div>
+                    </div>
+                </section>
 
+                <HomepageFeatures/>
+
+                <section className={styles.component}>
+                    <div className="container">
                         <div className={styles.artemisNotice}>
                             <p>Looking for Artemis? See the <Link to="/news/artemis-tlp">news</Link>.</p>
                         </div>
                     </div>
                 </section>
-
-                <section className={styles.community}>
-                    <div className="container">
-                        <p>
-                            Enjoy the benefits of open source by <Link to="/contributing">contributing to a code-base</Link>,
-                            asking a question on one of our <Link to="/contact#mailing">mailing lists</Link>,
-                            or <Link to="/issues">reporting a bug or requesting a feature</Link>.
-                            When you participate, we all win. That's the power of community. That's the power of open source.
-                        </p>
-                    </div>
-                </section>
-
-                <HomepageFeatures/>
             </main>
         </Layout>
     );

@@ -172,7 +172,6 @@ const config: Config = {
       ],
     },
     footer: {
-      style: 'dark',
       links: [],
       logo: {
         width: 200,
@@ -180,12 +179,7 @@ const config: Config = {
         href: '/',
         alt: 'Apache ActiveMQ',
       },
-      copyright: `<div>
-      <p>
-        <a href="https://www.apache.org/foundation/marks/list/">Apache, ActiveMQ, Apache ActiveMQ</a>, the Apache logo, and the Apache ActiveMQ project logo are trademarks of The Apache Software Foundation. Copyright &copy; ${new Date().getFullYear()}, The Apache Software Foundation. Licensed under <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a>.
-      </p>
-      <a href="https://www.apache.org"><img src="/img/Apache_PoweredBy.png" alt="Powered by Apache" style="max-height: 80px" /></a>
-      </div>`,
+      copyright: `<a href="https://www.apache.org/foundation/marks/list/">Apache, ActiveMQ, Apache ActiveMQ</a>, the Apache logo, and the Apache ActiveMQ project logo are trademarks of The Apache Software Foundation. Copyright &copy; ${new Date().getFullYear()}, The Apache Software Foundation. Licensed under <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a>.`,
     },
     prism: {
       theme: prismThemes.github,
