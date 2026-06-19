@@ -44,15 +44,13 @@
 }
 
 .description {
-  padding: 2rem 0;
+  padding: 4rem 0;
   background-color: var(--ifm-background-color);
 }
 
 .description p {
   font-size: 1.1rem;
-  max-width: 900px;
-  margin: 0 auto;
-  text-align: center;
+  margin: 0;
 }
 
 .component {

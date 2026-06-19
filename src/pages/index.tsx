@@ -20,6 +20,8 @@
 import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
+import {faCode, faEnvelope, faBug, faInfoCircle, faDownload, faBook} from '@fortawesome/free-solid-svg-icons';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
 import LatestReleases from '../components/LatestReleases';
@@ -79,13 +81,13 @@ export default function Home(): JSX.Element {
                             </ul>
                             <div className={styles.componentButtons}>
                                 <Link className="button button--secondary button--md" to="/components/classic">
-                                    Find out more
+                                    Find out more <FontAwesomeIcon icon={faInfoCircle} />
                                 </Link>
                                 <Link className="button button--secondary button--md" to="/components/classic/download">
-                                    Download Latest
+                                    Download Latest <FontAwesomeIcon icon={faDownload} />
                                 </Link>
                                 <Link className="button button--secondary button--md" to="/components/classic/documentation/">
-                                    Read the Docs
+                                    Read the Docs <FontAwesomeIcon icon={faBook} />
                                 </Link>
                             </div>
                         </div>
