@@ -2,6 +2,8 @@
 title: Security Advisories - ActiveMQ Classic
 ---
 
+# Security Advisories - ActiveMQ Classic
+
 Details of security problems fixed in released versions of Apache ActiveMQ Classic 6.x and 5.x are detailed below.
 
 See the main [Security Advisories](/security-advisories) page for details for other components and general information such as reporting new security issues.

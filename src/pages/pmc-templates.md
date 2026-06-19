@@ -2,6 +2,8 @@
 title: PMC Templates
 ---
 
+# PMC Templates
+
 The following templates are for use by the ActiveMQ PMC:
 
 ## Committer Discussion

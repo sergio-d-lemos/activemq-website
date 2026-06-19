@@ -2,6 +2,8 @@
 title: Support
 ---
 
+# Support
+
 Support is divided into two main categories - **community** and **commercial**.
 
 #### Community Support

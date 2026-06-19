@@ -2,6 +2,8 @@
 title: Security Advisories
 ---
 
+# Security Advisories
+
 Details of security problems fixed in released versions of individual Apache ActiveMQ components are detailed at:
 
 * [ActiveMQ](/components/classic/documentation/security)

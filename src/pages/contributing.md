@@ -2,6 +2,8 @@
 title: Contributing
 ---
 
+# Contributing
+
 There are many ways you can help make ActiveMQ a better piece of software - please dive in and help!
 
  - If you have a problem with the software or the documentation the first thing you might consider is [asking a question](contact#mailing).

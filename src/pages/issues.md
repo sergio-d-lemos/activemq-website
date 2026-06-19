@@ -2,6 +2,8 @@
 title: Reporting Issues
 ---
 
+# Reporting Issues
+
 If you find a bug please raise a new issue in the appropriate tracker. If you're not quite sure you're hitting a bug consider [contacting us](contact) to get some clarity.
 
 Whenever you are reporting a problem please be sure to include as much information as possible; the more we know the more chance of a quicker resolution. Here's a few items to consider:

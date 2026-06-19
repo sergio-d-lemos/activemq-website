@@ -2,6 +2,8 @@
 title: ActiveMQ Privacy Policy
 ---
 
+# ActiveMQ Privacy Policy
+
 Information about your use of this website is collected using server access logs and a tracking cookie. The collected information consists of the following:
 
 1.  The IP address from which you access the website;
