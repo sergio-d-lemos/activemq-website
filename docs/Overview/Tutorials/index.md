@@ -2,7 +2,7 @@
 title: "Tutorials"
 ---
 
-[Index](index.html) > [Overview](Overview) > [Tutorials](tutorials)
+[Index](index.html) > [Overview](Overview) > [Tutorials](index)
 
 Tutorials
 =========
