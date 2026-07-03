@@ -6,7 +6,7 @@ title: "Title"
 
 *   [Apollo 1.7.1](index.html)
 *   [Developers](communitydevelopers)
-*   [Community](community/index.html)
+*   [Community](Community/index.html)
 *   [Download](..OverviewOverview/Overview/download)
 
 Apollo 1.7.1 STOMP Protocol Manual

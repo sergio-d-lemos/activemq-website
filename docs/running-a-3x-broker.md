@@ -2,7 +2,7 @@
 title: "Running a 3.x Broker"
 ---
 
-The 3.x [binary distribution](download) of ActiveMQ Classic comes with a script called 'activemq' which allows you to run a broker. Typing the following will run an ActiveMQ Classic Broker using the out of the box configuration
+The 3.x [binary distribution](Download) of ActiveMQ Classic comes with a script called 'activemq' which allows you to run a broker. Typing the following will run an ActiveMQ Classic Broker using the out of the box configuration
 
 ```
 activemq

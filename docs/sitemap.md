@@ -246,7 +246,7 @@ Community
 Overview
 --------
 
-*   [Download](download)
+*   [Download](Download)
 *   [Download Archives](download-archives)
 *   [JavaDocs](javadocs)
 *   [News](news)

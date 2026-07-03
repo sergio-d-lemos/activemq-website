@@ -6,7 +6,7 @@ title: "Apollo Performance and Scaling"
 
 *   [Apollo 1.7.1](index.html)
 *   [Developers](communitydevelopers)
-*   [Community](community/index.html)
+*   [Community](Community/index.html)
 *   [Download](..OverviewOverview/Overview/download)
 
 Performance and Scaling

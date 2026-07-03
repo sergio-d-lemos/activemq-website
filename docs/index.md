@@ -2,7 +2,7 @@
 title: "ActiveMQ Documentation"
 ---
 
-*   [Overview](overview)
+*   [Overview](Overview)
     *   [New Features](new-features)
     *   [Getting Started](getting-started)
     *   [FAQ](faq)
@@ -10,13 +10,13 @@ title: "ActiveMQ Documentation"
     *   [Books](books)
     *   [License](http://www.apache.org/licenses/)
     *   [Latest Javadoc](maven/apidocs/)
-*   [Community](community)
-*   [Features](features)
-*   [Connectivity](connectivity)
-*   [Using ActiveMQ Classic](using-activemq-classic-5)
-*   [Tools](tools)
+*   [Community](Community)
+*   [Features](Features)
+*   [Connectivity](Connectivity)
+*   [Using ActiveMQ Classic](Using ActiveMQ Classic 5)
+*   [Tools](Tools)
 *   [Support](/support)
-*   [Developers](developers)
+*   [Developers](Developers)
 *   Tests
     *   [Maven2 Performance Plugin](activemq-classic-performance-module-users-manual)
     *   [Benchmark Tests](benchmark-tests)

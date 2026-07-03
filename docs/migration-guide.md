@@ -6,7 +6,7 @@ title: "Apollo Version Migration Guide"
 
 *   [Apollo 1.7.1](index.html)
 *   [Developers](communitydevelopers)
-*   [Community](community/index.html)
+*   [Community](Community/index.html)
 *   [Download](..OverviewOverview/Overview/download)
 
 Version Migration Guide

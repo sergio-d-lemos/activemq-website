@@ -1,19 +1,19 @@
 ---
-title: "Artemis' Roadmap to ActiveMQ <i>Next</i>"
+title: "Artemis' Roadmap to ActiveMQ"
 ---
 
 The goal of this page is to identify the outstanding issues that must be addressed by Artemis in order to achieve feature parity with ActiveMQ Classic. This page does **not** list the features which Artemis has *beyond* what currently exists in Classic.
 
 ## Features/Scenarios
 
-This section should be used to compare what features from ActiveMQ Classic have been implemented in Artemis. Feature items can be listed, with links to JIRA tickets for longer conversation and hashing out specific feature details. This will help us to more clearly track everything that Artemis needs. This list of features was taken from the Classic [features page](features).
+This section should be used to compare what features from ActiveMQ Classic have been implemented in Artemis. Feature items can be listed, with links to JIRA tickets for longer conversation and hashing out specific feature details. This will help us to more clearly track everything that Artemis needs. This list of features was taken from the Classic [features page](Features).
 
 Keep in mind that not every feature must have a &#9989;. Artemis is not meant to be a 100% complete reimplementation of ActiveMQ Classic. Features should only be reimplemented where it makes good sense.
 
 ### Protocol Support
 
 |Feature|Artemis Support|Version(s)|
-|---|:---:|---|---|
+  |---|:---:|---|
 |OpenWire|&#9989;||
 |Stomp|&#9989;|1.0, 1.1, 1.2|
 |AMQP|&#9989;|1.0|
