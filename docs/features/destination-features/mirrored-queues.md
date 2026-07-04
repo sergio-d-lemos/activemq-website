@@ -2,8 +2,6 @@
 title: "Mirrored Queues"
 ---
 
-[Features](features) > [Destination Features](destination-features) > [Mirrored Queues](mirrored-queues)
-
 
 Mirrored Queues
 ---------------

@@ -2,8 +2,6 @@
 title: "MasterSlave"
 ---
 
- [Features](features) > [Clustering](clustering) > [MasterSlave](masterslave)
-
 Introduction to Master / Slave
 ------------------------------
 

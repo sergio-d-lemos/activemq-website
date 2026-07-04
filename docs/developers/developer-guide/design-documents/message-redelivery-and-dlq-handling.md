@@ -2,8 +2,6 @@
 title: "Message Redelivery and DLQ Handling"
 ---
 
-[Developers](developers) > [Developer Guide](developer-guide) > [Design Documents](design-documents) > [Message Redelivery and DLQ Handling](message-redelivery-and-dlq-handling)
-
 
 ### Overview
 

@@ -2,8 +2,6 @@
 title: "Async Sends"
 ---
 
-[Features](features) > [Message Dispatching Features](message-dispatching-features) > [Async Sends](async-sends)
-
 
 Background
 ----------

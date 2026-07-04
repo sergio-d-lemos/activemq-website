@@ -2,8 +2,6 @@
 title: "The ActiveBlaze Message type"
 ---
 
-[Features](features) > [ActiveMQ Classic Real Time](activemq-classic-real-time) > [The ActiveBlaze Message type](the-activeblaze-message-type)
-
 
 The foundation of message and event parsing in ActiveBlaze is the BlazeMessage.  
 A BlazeMessage is a a Map of key value pairs, where the keys are strings and the values are primitive objects.

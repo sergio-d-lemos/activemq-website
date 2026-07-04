@@ -2,8 +2,6 @@
 title: "Tools"
 ---
 
-[Tools](tools)
-
 
 *   [Java Service Wrapper](java-service-wrapper)
 *   [Maven2 ActiveMQ Classic Broker Plugin](maven2-activemq-broker-plugin)

@@ -2,8 +2,6 @@
 title: "Projects Using ActiveMQ Classic"
 ---
 
-[Community](community) > [Projects Using ActiveMQ Classic](projects-using-activemq-classic)
-
 * [Apache Camel](https://camel.apache.org/) is a POJO based routing and mediation framework
 * [Apache CXF](https://cxf.apache.org/) is a JAX-WS client and web services framework
 * [Apache Geronimo](http://geronimo.apache.org/) is the Java EE server project of the Apache Software Foundation.

@@ -2,8 +2,6 @@
 title: "Release Guide"
 ---
 
-[Developers](developers) > [Release Guide](release-guide)
-
 
 How to create and announce an ActiveMQ Classic release. This release is based on [General guide for releasing Maven-based project at Apache](http://maven.apache.org/developers/release/apache-release.html) , so be sure to check it out before continuing and meet all prerequisites.
 

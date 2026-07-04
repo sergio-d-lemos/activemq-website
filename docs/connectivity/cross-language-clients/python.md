@@ -2,8 +2,6 @@
 title: "Python"
 ---
 
-[Connectivity](connectivity) > [Cross Language Clients](cross-language-clients) > [Python](python)
-
 
 Python Support
 --------------

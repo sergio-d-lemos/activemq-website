@@ -2,8 +2,6 @@
 title: "Design Documents"
 ---
 
-[Developers](developers) > [Developer Guide](developer-guide) > [Design Documents](design-documents)
-
 
 *   [Slow Consumers](slow-consumers)
 *   [Durable Queue Memory Management](durable-queue-memory-management)

@@ -2,8 +2,6 @@
 title: "Xml Reference"
 ---
 
- [Using ActiveMQ Classic](using-activemq-classic) > [Xml Reference](xml-reference)
-
 ActiveMQ Classic Xml Reference
 -----------------------
 

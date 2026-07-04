@@ -2,8 +2,6 @@
 title: "Runtime Configuration"
 ---
 
-[Features](features) > [New Features](new-features) > [New Features in 5.9](new-features-in-59) > [Runtime Configuration](runtime-configuration)
-
 
 From version 5.9.0 a new broker plugin will allow selective changes to a broker xml configuration to take effect without broker restart.  
 Consider a retail environment where there are central processors (hubs) and stores(spokes). It is advantageous to be able to add a new store  

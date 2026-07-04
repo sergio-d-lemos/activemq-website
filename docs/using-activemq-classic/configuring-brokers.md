@@ -2,8 +2,6 @@
 title: "Configuring Brokers"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [Configuring Brokers](configuring-brokers)
-
 
 ### Overview
 

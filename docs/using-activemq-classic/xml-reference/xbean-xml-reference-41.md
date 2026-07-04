@@ -2,8 +2,6 @@
 title: "XBean XML Reference 4.1"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [Xml Reference](xml-reference) > [XBean XML Reference 4.1](Xml Reference/xbean-xml-reference-41)
-
 
 ### Elements By Type
 

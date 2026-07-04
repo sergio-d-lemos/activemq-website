@@ -2,8 +2,6 @@
 title: "Logging Interceptor"
 ---
 
-[Features](features) > [Interceptors](interceptors) > [Logging Interceptor](logging-interceptor)
-
 Logging Interceptor
 -------------------
 

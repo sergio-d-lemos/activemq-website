@@ -2,8 +2,6 @@
 title: "XBean XML Reference 5.0"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [Xml Reference](xml-reference) > [XBean XML Reference 5.0](Xml Reference/xbean-xml-reference-50)
-
 
 ### Elements By Type
 

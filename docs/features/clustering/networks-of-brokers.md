@@ -2,8 +2,6 @@
 title: "Networks of Brokers"
 ---
 
-[Features](features) > [Clustering](clustering) > [Networks of Brokers](networks-of-brokers)
-
 
 To provide massive scalability of a large messaging fabric you typically want to allow many brokers to be connected together into a network so that you can have as many clients as you wish all logically connected together - and running as many message brokers as you need based on your number of clients and network topology.
 

@@ -2,8 +2,6 @@
 title: "How can I monitor ActiveMQ Classic"
 ---
 
-[FAQ](faq) > [Using Apache ActiveMQ Classic](using-apache-activemq-classic) > [How can I monitor ActiveMQ Classic](how-can-i-monitor-activemq-classic)
-
 
 How can I monitor ActiveMQ Classic
 ----------------------------------

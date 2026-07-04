@@ -2,8 +2,6 @@
 title: "Blob Messages"
 ---
 
-[Features](features) > [Message Features](message-features) > [Blob Messages](blob-messages)
-
 
 Blob Messages
 -------------

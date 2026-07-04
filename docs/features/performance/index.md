@@ -2,8 +2,6 @@
 title: "Performance"
 ---
 
-[Features](features) > [Performance](performance)
-
 
 Performance
 -----------

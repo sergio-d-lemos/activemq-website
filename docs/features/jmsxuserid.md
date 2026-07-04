@@ -2,8 +2,6 @@
 title: "JMSXUserID"
 ---
 
-[Features](features) > [JMSXUserID](jmsxuserid)
-
 
 JMSXUserID support
 ------------------

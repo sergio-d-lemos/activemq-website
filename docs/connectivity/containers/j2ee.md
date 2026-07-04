@@ -2,8 +2,6 @@
 title: "J2EE"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [J2EE](j2ee)
-
 
 In J2EE 1.4 or later the standard way to integrate with a JMS provider is via JCA 1.5 and a [Resource Adapter](resource-adapter).
 

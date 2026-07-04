@@ -2,8 +2,6 @@
 title: "Sybase"
 ---
 
-[Features](features) > [Persistence](persistence) > [JDBC Support](jdbc-support) > [Sybase](Persistence/JDBC Support/sybase)
-
 
 Sybase
 ------

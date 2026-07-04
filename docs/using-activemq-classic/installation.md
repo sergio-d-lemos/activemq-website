@@ -2,8 +2,6 @@
 title: "Installation"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [Installation](installation)
-
 
 *   [Download](download) a binary distribution of ActiveMQ Classic and unpack it into some directory.
 

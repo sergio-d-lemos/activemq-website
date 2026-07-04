@@ -2,8 +2,6 @@
 title: "Total Ordering"
 ---
 
-[Features](features) > [Message Dispatching Features](message-dispatching-features) > [Total Ordering](total-ordering)
-
 
 Sometimes it can be useful to ensure that every topic consumer sees messages arriving on the topic in exactly the same order. Normally the broker will guarantee the order of all messages sent by the same producer. However, owing to the broker's use of multiple threads and asynchronous processing, messages from different producers could arrive in different consumers in different orders.
 

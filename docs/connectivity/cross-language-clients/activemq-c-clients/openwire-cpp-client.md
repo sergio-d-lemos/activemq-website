@@ -2,8 +2,6 @@
 title: "OpenWire CPP Client"
 ---
 
-[Connectivity](connectivity) > [Cross Language Clients](cross-language-clients) > [ActiveMQ Classic C++ Clients](activemq-c-clients) > [OpenWire CPP Client](openwire-cpp-client)
-
 
 OpenWire C++ Client
 ===================

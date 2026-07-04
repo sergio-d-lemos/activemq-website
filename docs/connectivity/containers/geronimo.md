@@ -2,8 +2,6 @@
 title: "Geronimo"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [Geronimo](geronimo)
-
 
 ActiveMQ Classic is the default JMS provider in [Apache Geronimo](http://geronimo.apache.org).
 

@@ -2,8 +2,6 @@
 title: "New Features in 4.2"
 ---
 
-[Features](features) > [New Features](new-features) > [New Features in 4.2](new-features-in-42)
-
 New Features in 4.2
 -------------------
 

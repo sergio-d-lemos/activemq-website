@@ -2,8 +2,6 @@
 title: "Pluggable storage lockers"
 ---
 
- [Features](features) > [Persistence](persistence) > [Pluggable storage lockers](pluggable-storage-lockers)
-
 As of the 5.7.0 release of ActiveMQ Classic the choice of storage locking mechanism, as used by a persistence adapter, has been made pluggable. This feature is only meaningful to brokers configured in a shared storage master/slave topology. Prior to release 5.7.0 the storage locking mechanism (and thus master election) was dictated by the choice of persistence adapter. With the KahaDB persistence adapter, for example, the storage locking mechanism was based on a shared file lock. Similarly, the JDBC persistence adapter used a database backed storage lock.
 
 Now that the choice of storage locker is divorced from that of the persistence adapter one can mix and match combinations of the two. Storage locker pluggability is made possible by the [Locker](https://fisheye6.atlassian.com/browse/activemq/trunk/activemq-broker/src/main/java/org/apache/activemq/broker/Locker.java?hb=true) interface that all pluggable lockers must implement. This interface makes it easy to implement a custom storage locker that meets local requirements.

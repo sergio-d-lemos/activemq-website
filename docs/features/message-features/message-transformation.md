@@ -2,8 +2,6 @@
 title: "Message Transformation"
 ---
 
-[Features](features) > [Message Features](message-features) > [Message Transformation](message-transformation)
-
 
 Message Transformation
 ----------------------

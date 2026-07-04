@@ -2,8 +2,6 @@
 title: "Should I pool connections"
 ---
 
-[Index](index.html) > [FAQ](faq) > [Should I pool connections](should-i-pool-connections)
-
 Should I pool connections?
 --------------------------
 

@@ -2,8 +2,6 @@
 title: "New Features in 6.0"
 ---
 
-[Features](features) > [New Features](new-features) > [New Features in 6.0](new-features-in-60)
-
 ActiveMQ Classic 6 modernizes the ActiveMQ Classic 5 broker engine to support new JDK releases and provide support for Jakarta EE. This includes _partial_ support for JMS 2.0 APIs that are available in Jakarta Messaging 3.1.
 
 This release includes performance improvements, enhancements for observability, and reduction in 3rd-party dependencies.

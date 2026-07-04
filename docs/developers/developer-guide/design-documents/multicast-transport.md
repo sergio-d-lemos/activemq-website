@@ -2,8 +2,6 @@
 title: "Multicast Transport"
 ---
 
-[Developers](developers) > [Developer Guide](developer-guide) > [Design Documents](design-documents) > [Multicast Transport](multicast-transport)
-
 
 We could support a reliable multicast protocol and use that to distribute messages across. This page braindumps how that could fit in with ActiveMQ Classic 4.x's architecture.
 

@@ -2,8 +2,6 @@
 title: "Audit Logging"
 ---
 
-[Features](features) > [Security](security) > [Audit Logging](audit-logging)
-
 
 For many secured environments there's a requirement to log every user management action. For that ActiveMQ Classic implements _audit logging_, which means that every management action made through JMX or Web Console management interface will be logged and available for later inspection.
 

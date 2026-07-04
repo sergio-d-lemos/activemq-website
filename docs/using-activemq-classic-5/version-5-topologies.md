@@ -2,8 +2,6 @@
 title: "Version 5 Topologies"
 ---
 
-[Using ActiveMQ Classic 5](using-activemq-classic-5) > [Version 5 Topologies](version-5-topologies)
-
 
 ActiveMQ Classic supports a wide range of different deployment topologies as well as [protocols](uri-protocols) & wire formats. The following diagram shows a federated network of brokers with a few different kinds of topology.
 

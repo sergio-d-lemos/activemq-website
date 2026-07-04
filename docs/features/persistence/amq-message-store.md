@@ -2,8 +2,6 @@
 title: "AMQ Message Store"
 ---
 
-[Features](features) > [Persistence](persistence) > [AMQ Message Store](amq-message-store)
-
 
 The Basics
 ----------

@@ -2,8 +2,6 @@
 title: "Connectivity"
 ---
 
-[Connectivity](connectivity)
-
 
 Apache ActiveMQ Classic is designed to support a large number if [Cross Language Clients](cross-language-clients), speak a wide range of [Protocols](protocols) and be usable in a wide variety of [Containers](containers) in addition to being usable in a stand alone Java SE platform.
 

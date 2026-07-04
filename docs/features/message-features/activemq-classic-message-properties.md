@@ -2,8 +2,6 @@
 title: "ActiveMQ Classic Message Properties"
 ---
 
-[Features](features) > [Message Features](message-features) > [ActiveMQ Classic Message Properties](activemq-classic-message-properties)
-
 
 **ActiveMQ Classic Messages support the following default message properties:**
 

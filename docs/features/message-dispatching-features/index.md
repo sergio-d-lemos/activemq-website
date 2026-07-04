@@ -2,8 +2,6 @@
 title: "Message Dispatching Features"
 ---
 
-[Features](features) > [Message Dispatching Features](message-dispatching-features)
-
 
 *   [Async Sends](async-sends)
 *   [Dispatch Policies](dispatch-policies)

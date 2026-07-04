@@ -2,8 +2,6 @@
 title: "How you can help release"
 ---
 
-[Developers](developers) > [Developer Guide](developer-guide) > [Release Plans](release-plans) > [How you can help release](how-you-can-help-release)
-
 
 How to Help
 -----------

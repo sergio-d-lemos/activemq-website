@@ -2,8 +2,6 @@
 title: "Version 5 Web Samples"
 ---
 
-[Using ActiveMQ Classic 5](using-activemq-classic-5) > [Version 5 Web Samples](web-samples)
-
 
 There are a few example programs demonstrating the [REST](rest) messaging or [Ajax](ajax) in the [activemq/activemq-web-demo](https://github.com/apache/activemq/tree/main/activemq-web-demo/) module.
 

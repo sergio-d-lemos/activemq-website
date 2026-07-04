@@ -2,8 +2,6 @@
 title: "Delete Inactive Destinations"
 ---
 
-[Features](features) > [Destination Features](destination-features) > [Delete Inactive Destinations](delete-inactive-destinations)
-
 
 Inactive Destination
 

@@ -2,8 +2,6 @@
 title: "KahaDB Replication (Experimental)"
 ---
 
-[Features](features) > [Clustering](clustering) > [MasterSlave](masterslave) > [KahaDB Replication (Experimental)](kahadb-replication-experimental)
-
 
 Note
 

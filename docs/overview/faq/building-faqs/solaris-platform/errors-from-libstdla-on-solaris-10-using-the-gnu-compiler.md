@@ -2,8 +2,6 @@
 title: "Errors from libstd++.la on Solaris 10 using the GNU Compiler"
 ---
 
-[Index](index.html) > [Community](community) > [FAQ](faq) > [Building FAQs](building-faqs) > [Solaris Platform](solaris-platform) > [Errors from libstd++.la on Solaris 10 using the GNU Compiler](errors-from-libstdla-on-solaris-10-using-the-gnu-compiler)
-
 On Solaris 10 the libstdc++.la file is empty which causes the build to fail. In order to fix this you must fill in the libstdc++.la file with the correct information. There are two versions, one for 32 bit and one for 64 bit. The following listings show the correct contents of these files respectively.
 
 From [Sun Forums](http://forum.java.sun.com/thread.jspa?threadID=5073150)

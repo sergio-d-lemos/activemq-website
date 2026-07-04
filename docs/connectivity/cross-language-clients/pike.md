@@ -2,8 +2,6 @@
 title: "Pike"
 ---
 
-[Connectivity](connectivity) > [Cross Language Clients](cross-language-clients) > [Pike](pike)
-
 
 Pike Support
 ------------

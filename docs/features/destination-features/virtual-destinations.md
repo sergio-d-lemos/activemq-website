@@ -2,8 +2,6 @@
 title: "Virtual Destinations"
 ---
 
-[Features](features) > [Destination Features](destination-features) > [Virtual Destinations](virtual-destinations)
-
 _Virtual Destinations_ allow us to create logical destinations that clients can use to produce and consume from but which map onto one or more _physical destinations_. It allows us to provide more flexible loosely coupled messaging configurations.
 
 Virtual Topics

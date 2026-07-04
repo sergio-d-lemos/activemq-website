@@ -2,8 +2,6 @@
 title: "JMX"
 ---
 
-[Features](features) > [JMX](jmx)
-
 
 JMX
 ---

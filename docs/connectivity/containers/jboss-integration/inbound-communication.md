@@ -2,8 +2,6 @@
 title: "Inbound Communication"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [JBoss Integration](jboss-integration) > [Inbound Communication](inbound-communication)
-
 
 Configuring an MDB to receive messages from ActiveMQ Classic
 ----------------------------------------------------

@@ -2,8 +2,6 @@
 title: "Old OSGi Integration"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [Old OSGi Integration](old-osgi-integration)
-
 
 > **This article applies to versions of ActiveMQ Classic prior to 5.4.0. If you use version 5.4.0 or newer proceed to the [following article](osgi-integration).**
 

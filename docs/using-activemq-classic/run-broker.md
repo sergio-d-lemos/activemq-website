@@ -2,8 +2,6 @@
 title: "Run Broker"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [Run Broker](run-broker)
-
 
 Running an ActiveMQ Classic Broker
 ==========================

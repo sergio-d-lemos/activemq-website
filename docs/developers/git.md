@@ -2,8 +2,6 @@
 title: "GIT"
 ---
 
-[Developers](developers) > [GIT](git)
-
 
 ActiveMQ Classic 5
 ==========

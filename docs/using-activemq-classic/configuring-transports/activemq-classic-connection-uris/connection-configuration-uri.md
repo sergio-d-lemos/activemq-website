@@ -2,8 +2,6 @@
 title: "Connection Configuration URI"
 ---
 
- [Using ActiveMQ Classic](using-activemq-classic) > [Configuring Transports](configuring-transports) > [ActiveMQ Classic Connection URIs](activemq-classic-connection-uris) > [Connection Configuration URI](connection-configuration-uri)
-
 Connection Configuration URI
 ----------------------------
 

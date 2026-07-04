@@ -2,8 +2,6 @@
 title: "Spring Support"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [Spring Support](spring-support)
-
 
 We fully support Spring for configuration of the JMS client side as well as for configuring the JMS Message Broker.  
 There is a great [article](https://medium.com/@bdarfler/efficient-lightweight-jms-with-spring-and-activemq-51ff6a135946) on using Spring with ActiveMQ Classic - I'd recommend reading it first.

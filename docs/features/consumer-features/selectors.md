@@ -2,8 +2,6 @@
 title: "Selectors"
 ---
 
-[Features](features) > [Consumer Features](consumer-features) > [Selectors](selectors)
-
 
 JMS Selectors
 -------------

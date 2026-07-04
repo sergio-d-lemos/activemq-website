@@ -2,8 +2,6 @@
 title: "VM Transport Reference"
 ---
 
- [Using ActiveMQ Classic](using-activemq-classic) > [Configuring Transports](configuring-transports) > [ActiveMQ Classic Connection URIs](activemq-classic-connection-uris) > [VM Transport Reference](vm-transport-reference)
-
 ### The VM Transport
 
 The VM transport allows clients to connect to each other inside the VM without the overhead of the network communication. The connection used is not a socket connection but use direct method invocations which enables a high performance embedded messaging system.

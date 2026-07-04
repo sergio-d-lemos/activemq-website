@@ -2,8 +2,6 @@
 title: "Axis and CXF Support"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [Axis and CXF Support](axis-and-cxf-support)
-
 
 ActiveMQ Classic supports both [Apache Axis](http://ws.apache.org/axis/) and [Apache CXF](http://incubator.apache.org/cxf) out of the box.
 

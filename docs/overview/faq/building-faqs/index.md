@@ -2,8 +2,6 @@
 title: "Building FAQs"
 ---
 
-[Index](index.html) > [Community](community) > [FAQ](faq) > [Building FAQs](building-faqs)
-
 These are general hints and tips on Building the Library on various platforms etc.
 
 *   [General Build Issues](general-build-issues)

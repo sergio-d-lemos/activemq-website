@@ -2,8 +2,6 @@
 title: "Building"
 ---
 
-[Developers](developers) > [Building](building)
-
 
 Building ActiveMQ Classic from Source
 -----------------------------

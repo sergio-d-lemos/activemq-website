@@ -2,8 +2,6 @@
 title: "Destination Options"
 ---
 
- [Features](features) > [Destination Features](destination-features) > [Destination Options](destination-options)
-
 ### Background
 
 Destination Options are a way to provide extended configuration options to a JMS consumer without having to extend the JMS API. The options are encoded using URL query syntax in the destination name that the consumer is created on.

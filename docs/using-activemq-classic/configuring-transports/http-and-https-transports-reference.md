@@ -2,8 +2,6 @@
 title: "HTTP and HTTPs Transports Reference"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [Configuring Transports](configuring-transports) > [ActiveMQ Classic Connection URIs](activemq-classic-connection-uris) > [HTTP and HTTPs Transports Reference](http-and-https-transports-reference)
-
 
 ### HTTP and HTTPS Transports
 

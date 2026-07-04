@@ -2,8 +2,6 @@
 title: "JMeter Performance Tests"
 ---
 
-[Developers](developers) > [JMeter Performance Tests](jmeter-performance-tests)
-
 
 ### JMeter performance test
 

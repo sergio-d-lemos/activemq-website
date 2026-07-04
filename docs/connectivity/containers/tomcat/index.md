@@ -2,8 +2,6 @@
 title: "Tomcat"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [Tomcat](tomcat)
-
 
 #### Configuration issues for Tomcat 7 and later
 

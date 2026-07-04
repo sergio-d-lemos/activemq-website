@@ -2,8 +2,6 @@
 title: "sample report"
 ---
 
-[Features](features) > [Performance](performance) > [ActiveMQ Classic Performance Module Users Manual](activemq-classic-performance-module-users-manual) > [sample report](sample-report)
-
 
 Performance Test Report Template
 --------------------------------

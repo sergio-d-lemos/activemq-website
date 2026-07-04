@@ -2,8 +2,6 @@
 title: "Use Cases"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [Use Cases](use-cases)
-
 
 Messaging is a diverse and wide ranging subject - there are many different use cases, requirements and deployment options. This is one of the reasons why its so interesting to work on ![(smile)](https://cwiki.apache.org/confluence/s/en_GB/5997/6f42626d00e36f53fe51440403446ca61552e2a2.1/_/images/icons/emoticons/smile.png)
 

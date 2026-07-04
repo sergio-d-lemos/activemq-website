@@ -2,8 +2,6 @@
 title: "Hello World"
 ---
 
-[Using ActiveMQ](using-activemq-classic) > [Hello World](hello-world)
-
 
 The following is a very simple JMS application with multiple, concurrent, consumers and producers. See the [Initial Configuration](initial-configuration) guide for details on how to setup your classpath correctly.
 

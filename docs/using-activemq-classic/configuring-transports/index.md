@@ -2,8 +2,6 @@
 title: "Configuring Transports"
 ---
 
- [Using ActiveMQ Classic](using-activemq-classic) > [Configuring Transports](configuring-transports)
-
 Transport configuration options
 -------------------------------
 

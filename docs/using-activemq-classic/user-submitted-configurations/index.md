@@ -2,8 +2,6 @@
 title: "User Submitted Configurations"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [User Submitted Configurations](user-submitted-configurations)
-
 
 Please add any configurations of ActiveMQ Classic you wish to share with other users here...
 

@@ -2,8 +2,6 @@
 title: "Wildcards"
 ---
 
-[Features](features) > [Destination Features](destination-features) > [Wildcards](wildcards)
-
 
 We support destination wildcards to provide easy support for federated name hierarchies. This concept has been popular in financial market data for some time as a way of organizing events (such as price changes) into hierarchies and to use wildcards for easy subscription of the range of information you're interested in.
 

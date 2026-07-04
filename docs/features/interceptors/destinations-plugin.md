@@ -2,8 +2,6 @@
 title: "Destinations Plugin"
 ---
 
-[Features](features) > [Interceptors](interceptors) > [Destinations Plugin](destinations-plugin)
-
 
 In some environments clients can't create destinations and only administrators are allowed to do that using management consoles or APIs. This plugin allows users to export destinations created during the runtime of the broker and replicate that state on another broker.
 ```

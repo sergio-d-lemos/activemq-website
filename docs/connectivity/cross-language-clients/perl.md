@@ -2,8 +2,6 @@
 title: "Perl"
 ---
 
-[Connectivity](connectivity) > [Cross Language Clients](cross-language-clients) > [Perl](perl)
-
 
 Perl Support
 ------------

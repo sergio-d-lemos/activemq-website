@@ -2,8 +2,6 @@
 title: "Release Plans"
 ---
 
-[Developers](developers) > [Developer Guide](developer-guide) > [Release Plans](release-plans)
-
 
 ### Information
 

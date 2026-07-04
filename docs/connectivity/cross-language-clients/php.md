@@ -2,8 +2,6 @@
 title: "PHP"
 ---
 
-[Connectivity](connectivity) > [Cross Language Clients](cross-language-clients) > [PHP](php)
-
 
 PHP Support
 -----------

@@ -2,8 +2,6 @@
 title: "Connection Factory Properties"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [Resource Adapter](resource-adapter) > [Connection Factory Properties](connection-factory-properties)
-
 
 The 'outbound' Connection Factory objects used to send messages by default use the connection configuration properties of the Resource Adapter deployment, but those properties can be overridden per connection factory.
 

@@ -2,8 +2,6 @@
 title: "Developer Guide"
 ---
 
-[Developers](developers) > [Developer Guide](developer-guide)
-
 
 The following documents might be interesting
 

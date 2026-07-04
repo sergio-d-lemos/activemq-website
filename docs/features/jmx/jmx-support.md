@@ -2,8 +2,6 @@
 title: "JMX Support"
 ---
 
-[Features](features) > [JMX](jmx) > [JMX Support](jmx-support)
-
 
 This page describes the JMX management requirements.
 

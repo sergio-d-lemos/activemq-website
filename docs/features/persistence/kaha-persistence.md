@@ -2,8 +2,6 @@
 title: "Kaha Persistence"
 ---
 
-[Features](features) > [Persistence](persistence) > [Kaha Persistence](kaha-persistence)
-
 
 Kaha Persistence
 ----------------

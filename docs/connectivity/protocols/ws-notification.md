@@ -2,8 +2,6 @@
 title: "WS Notification"
 ---
 
-[Connectivity](connectivity) > [Protocols](protocols) > [WS Notification](ws-notification)
-
 
 WS-Notification
 ---------------

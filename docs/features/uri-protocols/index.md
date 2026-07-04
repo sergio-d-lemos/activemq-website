@@ -2,8 +2,6 @@
 title: "URI Protocols"
 ---
 
-[Features](features) > [URI Protocols](uri-protocols)
-
 
 ActiveMQ Classic is designed to support mutliple different [topologies](topologies) and protocols. Which one you use depends on your messaging requirements, quality of service and network topology.
 

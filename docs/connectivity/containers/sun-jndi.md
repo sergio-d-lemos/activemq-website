@@ -2,8 +2,6 @@
 title: "Sun JNDI"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [Sun JNDI](sun-jndi)
-
 
 here's an example jndi.properties file:
 

@@ -2,8 +2,6 @@
 title: "C integration scenarios"
 ---
 
-[Connectivity](connectivity) > [Cross Language Clients](cross-language-clients) > [C Integration](c-integration) > [C integration scenarios](c-integration-scenarios)
-
 
 One way and RPC with C services
 -------------------------------

@@ -2,8 +2,6 @@
 title: "XMPP"
 ---
 
-[Connectivity](connectivity) > [Protocols](protocols) > [XMPP](xmpp)
-
 
 XMPP Protocol Support (Jabber!)
 -------------------------------

@@ -2,8 +2,6 @@
 title: "Command Agent"
 ---
 
-[Features](features) > [Command Agent](command-agent)
-
 
 Removed in 5.9
 

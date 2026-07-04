@@ -2,8 +2,6 @@
 title: "Virtual Threads"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic-5) > [Configure version 6 Virtual Threads](virtual-threads)
-
 ### Virtual Threads support 
 
 ActiveMQ Classic support for Virtual Threads is in Technology Preview stage.

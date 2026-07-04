@@ -2,8 +2,6 @@
 title: "MDC Logging"
 ---
 
-[Features](features) > [MDC Logging](mdc-logging)
-
 
 ActiveMQ Classic uses [slf4j](http://www.slf4j.org/) as its logging framework. This allows ActiveMQ Classic to support [MDC logging](http://www.slf4j.org/api/org/slf4j/MDC.html). For more information about about MDC logging see the [logback manual](http://logback.qos.ch/manual/mdc.html).
 

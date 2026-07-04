@@ -2,8 +2,6 @@
 title: "ZeroConf"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [Configuring Transports](configuring-transports) > [ZeroConf Transport Reference](zeroconf-transport-reference) > [ZeroConf](zeroconf)
-
 
 ZeroConf
 --------

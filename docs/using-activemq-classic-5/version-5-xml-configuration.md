@@ -2,8 +2,6 @@
 title: "Version 5 XML Configuration"
 ---
 
-[Using ActiveMQ Classic 5](using-activemq-classic-5) > [Version 5 XML Configuration](version-5-xml-configuration)
-
 
 *   transport connectors which consist of transport channels and wire formats TODO: add a link to a page explaining what transport connectors are how to configure and use them.
 *   network connectors using network channels or discovery TODO: add a link to a page explaining what network connectors are how to configure and use them.

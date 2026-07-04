@@ -2,8 +2,6 @@
 title: "Shared File System Master Slave"
 ---
 
-[Features](features) > [Clustering](clustering) > [MasterSlave](masterslave) > [Shared File System Master Slave](shared-file-system-master-slave) 
-
 Shared File System Master Slave
 -------------------------------
 

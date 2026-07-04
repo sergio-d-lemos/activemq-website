@@ -2,8 +2,6 @@
 title: "VM Protocol"
 ---
 
-[Features](features) > [URI Protocols](uri-Connectivity/protocols) > [VM Protocol](URI Protocols/vm-protocol)
-
 
 Protocol syntax : vm://logicalname
 

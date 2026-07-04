@@ -2,8 +2,6 @@
 title: "Performance report"
 ---
 
-[Features](features) > [Performance](performance) > [Performance report](performance-report)
-
 
 Performance guides
 ------------------

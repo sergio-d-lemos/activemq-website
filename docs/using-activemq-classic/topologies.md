@@ -2,8 +2,6 @@
 title: "Topologies"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [Topologies](topologies)
-
 
 ActiveMQ Classic supports a wide range of different deployment topologies as well as [protocols](uri-protocols) & wire formats. The following diagram shows a federated network of brokers with a few different kinds of topology.
 

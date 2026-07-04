@@ -2,8 +2,6 @@
 title: "Setting up ActiveMQ Classic with Tomcat 5.5.9"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [Tomcat](tomcat) > [Setting up ActiveMQ Classic with Tomcat 5.5.9](setting-up-activemq-classic-with-tomcat-559)
-
 
 Create the file <webapp-root>/META-INF/context.xml. Here is an example:
 ```

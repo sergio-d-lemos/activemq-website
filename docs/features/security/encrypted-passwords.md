@@ -2,8 +2,6 @@
 title: "Encrypted passwords"
 ---
 
-[Features](features) > [Security](security) > [Encrypted passwords](encrypted-passwords)
-
 
 As of ActiveMQ Classic 5.4.1 you can encrypt your passwords and safely store them in configuration files. To encrypt the password, you can use the newly added `encrypt` command like:
 ```

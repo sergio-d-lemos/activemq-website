@@ -2,8 +2,6 @@
 title: "OpenWire C Client"
 ---
 
-[Connectivity](connectivity) > [Cross Language Clients](cross-language-clients) > [C Integration](c-integration) > [OpenWire C Client](openwire-c-client)
-
 
 This is the C library which is based on the [OpenWire](openwire) protocol.
 

@@ -2,8 +2,6 @@
 title: "BlazeDS"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [BlazeDS](blazeds)
-
 
 BlazeDS
 -------

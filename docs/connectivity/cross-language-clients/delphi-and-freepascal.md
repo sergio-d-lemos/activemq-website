@@ -2,8 +2,6 @@
 title: "Delphi and FreePascal"
 ---
 
-[Connectivity](connectivity) > [Cross Language Clients](cross-language-clients) > [Delphi and FreePascal](delphi-and-freepascal)
-
 
 Delphi and FreePascal Client
 ============================

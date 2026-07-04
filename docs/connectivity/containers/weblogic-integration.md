@@ -2,8 +2,6 @@
 title: "WebLogic Integration"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [WebLogic Integration](weblogic-integration)
-
 
 ActiveMQ Classic WebLogic Integration
 =============================

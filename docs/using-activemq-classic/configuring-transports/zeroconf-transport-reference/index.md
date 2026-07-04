@@ -2,8 +2,6 @@
 title: "ZeroConf Transport Reference"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [Configuring Transports](configuring-transports) > [ZeroConf Transport Reference](zeroconf-transport-reference)
-
 ### The ZeroConf Transport
 
 The ZeroConf transport works just like [Discovery Transport](discovery-transport-reference), except that it uses a [ZeroConf](zeroconf) based discovery agent to locate the list of broker uris to connect to.

@@ -2,8 +2,6 @@
 title: "ActiveMQ Classic Real Time"
 ---
 
-[Features](features) > [ActiveMQ Classic Real Time](activemq-classic-real-time)
-
 
 ActiveMQ Classic Real Time is a sub-project of the popular Apache ActiveMQ Classic messaging system but is designed specifically to meet the needs for low latency high throughput collaborative real-time applications.
 

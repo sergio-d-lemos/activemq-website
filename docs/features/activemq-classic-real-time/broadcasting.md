@@ -2,8 +2,6 @@
 title: "Broadcasting"
 ---
 
-[Features](features) > [ActiveMQ Classic Real Time](activemq-classic-real-time) > [Broadcasting](broadcasting)
-
 
 ActiveBlaze provides infrastructure for fast, reliable peer to peer messaging to meet the demands of high performance and collaborative applications.  
 Using the basic building block of a Channel, there exists a functional hierarchy used for different problem domains, each one a super-set of the previous one.

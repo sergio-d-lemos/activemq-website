@@ -2,8 +2,6 @@
 title: "Broker Camel Component"
 ---
 
-[Features](features) > [Broker Camel Component](broker-camel-component)
-
 Broker Camel Component
 ----------------------
 

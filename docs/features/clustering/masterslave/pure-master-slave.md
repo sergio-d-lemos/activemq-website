@@ -2,8 +2,6 @@
 title: "Pure Master Slave"
 ---
 
-[Features](features) > [Clustering](clustering) > [MasterSlave](masterslave) > [Pure Master Slave](pure-master-slave)
-
 > **Warning**
 > 
 > The LevelDB store has been removed from production.

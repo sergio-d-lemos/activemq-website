@@ -2,8 +2,6 @@
 title: "5.9 Migration Guide"
 ---
 
- [Overview](overview) > [Download](download) > [ActiveMQ Classic 5.9.0 Release](activemq-590-release) > [5.9 Migration Guide](59-migration-guide)
-
 There are some changes in 5.9 that may require user intervention
 
 1.  Schema change to JDBC Persistence Adapter. XID column type change.

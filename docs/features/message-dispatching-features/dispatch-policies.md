@@ -2,8 +2,6 @@
 title: "Dispatch Policies"
 ---
 
- [Features](features) > [Message Dispatching Features](message-dispatching-features) > [Dispatch Policies](dispatch-policies)
-
 Dispatch Policies
 =================
 

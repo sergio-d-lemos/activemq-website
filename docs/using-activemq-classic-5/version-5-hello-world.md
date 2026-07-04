@@ -2,8 +2,6 @@
 title: "Version 5 Hello World"
 ---
 
-[Using ActiveMQ Classic 5](using-activemq-classic-5) > [Version 5 Hello World](version-5-Using ActiveMQ Classichello-world)
-
 
 The following is a very simple JMS application with multiple, concurrent, consumers and producers. See the [Initial Configuration](initial-configuration) guide for details on how to setup your classpath correctly.
 

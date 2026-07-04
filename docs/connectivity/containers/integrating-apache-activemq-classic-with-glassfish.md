@@ -2,8 +2,6 @@
 title: "Integrating Apache ActiveMQ Classic with Glassfish"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [Integrating Apache ActiveMQ Classic with Glassfish](integrating-apache-activemq-classic-with-glassfish)
-
 
 General
 =======

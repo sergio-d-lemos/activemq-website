@@ -4,8 +4,6 @@ title: "Books"
 
   
 
-[Community](community) > [Books](books)
-
 Books
 =====
 

@@ -2,8 +2,6 @@
 title: "OSGi support (in development)"
 ---
 
-[OSGi support (in development)](osgi-support-in-development)
-
 
 Split packages (2015-11-17)
 ---------------------------

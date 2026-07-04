@@ -2,8 +2,6 @@
 title: "ActiveMQ Classic 4 Connection URIs"
 ---
 
-[Using ActiveMQ Classic 4](using-activemq-classic-4) > [Configuring Transports](configuring-transports) > [ActiveMQ Classic 4 Connection URIs](activemq-4-connection-uris)
-
 
 Transport configuration options
 -------------------------------

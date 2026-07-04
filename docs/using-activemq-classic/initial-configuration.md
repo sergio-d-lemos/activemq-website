@@ -2,8 +2,6 @@
 title: "Initial Configuration"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [Initial Configuration](initial-configuration)
-
 
 Initial Configuration
 =====================

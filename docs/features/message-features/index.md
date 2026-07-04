@@ -2,8 +2,6 @@
 title: "Message Features"
 ---
 
-[Features](features) > [Message Features](message-features)
-
 
 *   [ActiveMQ Classic Message Properties](activemq-classic-message-properties)
 *   [Advisory Message](advisory-message)

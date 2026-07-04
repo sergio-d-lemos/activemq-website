@@ -2,8 +2,6 @@
 title: "Redelivery Policy"
 ---
 
-[Features](features) > [Consumer Features](consumer-features) > [Redelivery Policy](redelivery-policy)
-
 
 Redelivery Policy
 -----------------

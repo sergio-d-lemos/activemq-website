@@ -2,8 +2,6 @@
 title: "Sample Camel Routes"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [User Submitted Configurations](user-submitted-configurations) > [Sample Camel Routes](sample-camel-routes)
-
 
 ### Example of a configuration that show how to use Camel routes with Juel and Xpath.
 ```

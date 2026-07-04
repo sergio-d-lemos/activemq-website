@@ -2,8 +2,6 @@
 title: "Static Transport Reference"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [Configuring Transports](configuring-transports) > [ActiveMQ Classic Connection URIs](activemq-classic-connection-uris) > [Static Transport Reference](static-transport-reference)
-
 
 ### The Static Transport
 

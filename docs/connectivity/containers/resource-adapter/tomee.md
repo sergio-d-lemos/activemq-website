@@ -2,8 +2,6 @@
 title: "TomEE"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [Resource Adapter](resource-adapter) > [TomEE](Resource Adapter/tomee)
-
 
 Apache TomEE is a distribution of Tomcat with fully integrated ActiveMQ Classic offering full JMS support to plain war files, Servlets and more. No setup is required and code like the following will work out of the box.
 

@@ -2,8 +2,6 @@
 title: "ActiveMQ Classic Performance Module Users Manual"
 ---
 
-[Features](features) > [Performance](performance) > [ActiveMQ Classic Performance Module Users Manual](activemq-classic-performance-module-users-manual)
-
 
 Running Maven 2 Performance Test
 --------------------------------

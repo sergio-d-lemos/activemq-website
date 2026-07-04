@@ -2,8 +2,6 @@
 title: "Integration Tests"
 ---
 
-[Developers](developers) > [Integration Tests](integration-tests)
-
 
 The Integration Tests validate that ActiveMQ Classic Resource Adapter operate correctly when deployed with a J2EE application running in an Application Server such as Apache Geronimo.
 

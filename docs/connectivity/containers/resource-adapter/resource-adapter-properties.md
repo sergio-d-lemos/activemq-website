@@ -2,8 +2,6 @@
 title: "Resource Adapter Properties"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [Resource Adapter](resource-adapter) > [Resource Adapter Properties](resource-adapter-properties)
-
 
 The ActiveMQ Classic Resource Adapter allows you to configure several properties that:
 

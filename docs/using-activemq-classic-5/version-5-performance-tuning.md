@@ -2,8 +2,6 @@
 title: "Version 5 Performance Tuning"
 ---
 
-[Using ActiveMQ Classic 5](using-activemq-classic-5) > [Version 5 Performance Tuning](version-5-performance-tuning)
-
 
 For a more complete overview see [Performance](performance).
 

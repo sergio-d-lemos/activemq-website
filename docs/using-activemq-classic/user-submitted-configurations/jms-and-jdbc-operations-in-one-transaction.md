@@ -2,8 +2,6 @@
 title: "JMS and JDBC operations in one transaction"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [User Submitted Configurations](user-submitted-configurations) > [JMS and JDBC operations in one transaction](jms-and-jdbc-operations-in-one-transaction)
-
 
 ### JMS and JDBC operations in one transaction with Spring/Jencks/ActiveMQ Classic
 

@@ -2,8 +2,6 @@
 title: "Release Info"
 ---
 
-[Developers](developers) > [Developer Guide](developer-guide) > [Release Plans](release-plans) > [Release Info](release-info)
-
 
 General Release Information
 ---------------------------

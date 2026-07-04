@@ -2,8 +2,6 @@
 title: "Ruby"
 ---
 
-[Connectivity](connectivity) > [Cross Language Clients](cross-language-clients) > [Ruby](ruby)
-
 
 Ruby Support
 ------------

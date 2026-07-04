@@ -2,8 +2,6 @@
 title: "4.0 RC 1 Guide"
 ---
 
-[Developers](developers) > [Developer Guide](developer-guide) > [Release Plans](release-plans) > [4.0 RC 1 Guide](40-rc-1-guide)
-
 
 ActiveMQ Classic 4.0-RC-1 Release Guide
 ===============================

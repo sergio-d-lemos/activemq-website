@@ -2,8 +2,6 @@
 title: "Optimized Acknowledgement"
 ---
 
-[Features](features) > [Message Dispatching Features](message-dispatching-features) > [Optimized Acknowledgement](optimized-acknowledgement)
-
 
 Overview
 --------

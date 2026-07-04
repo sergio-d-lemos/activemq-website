@@ -2,8 +2,6 @@
 title: "New Features in 5.2"
 ---
 
-[Features](features) > [New Features](new-features) > [New Features in 5.2](new-features-in-52)
-
 
 Apache ActiveMQ Classic 5.2 is primarily a maintenance release which [resolves](https://issues.apache.org/activemq/secure/ReleaseNote.jspa?projectId=10520&styleName=Html&version=11841)
 

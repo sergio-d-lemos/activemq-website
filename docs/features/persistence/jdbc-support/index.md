@@ -2,8 +2,6 @@
 title: "JDBC Support"
 ---
 
-[Features](features) > [Persistence](persistence) > [JDBC Support](jdbc-support)
-
 
 We support a range of SQL databases for message persistence such as
 

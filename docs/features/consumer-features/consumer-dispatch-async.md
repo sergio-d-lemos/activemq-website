@@ -2,8 +2,6 @@
 title: "Consumer Dispatch Async"
 ---
 
- [Features](features) > [Consumer Features](consumer-features) > [Consumer Dispatch Async](consumer-dispatch-async)
-
 Overview
 --------
 

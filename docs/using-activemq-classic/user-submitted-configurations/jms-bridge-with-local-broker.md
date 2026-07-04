@@ -2,8 +2,6 @@
 title: "JMS Bridge With Local Broker"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [User Submitted Configurations](user-submitted-configurations) > [JMS Bridge With Local Broker](jms-bridge-with-local-broker)
-
 
 ### Example of a configuration that shows how to use a BridgeConnector to make a connection to the local ActiveMQ Classic broker.
 ```

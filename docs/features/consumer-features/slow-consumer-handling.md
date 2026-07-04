@@ -2,8 +2,6 @@
 title: "Slow Consumer Handling"
 ---
 
-[Features](features) > [Consumer Features](consumer-features) > [Slow Consumer Handling](slow-consumer-handling)
-
 
 [Slow Consumers](Design Documents/slow-consumers) can cause problems on non-durable topics since they can force the broker to keep old messages in RAM which once it fills up, forces the broker to slow down producers, causing the fast consumers to be slowed down. One option we could implement in the future is spooling to disk - but then spooling to disk could slow down the fast consumers too.
 

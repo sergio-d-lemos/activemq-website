@@ -2,8 +2,6 @@
 title: "Stomp"
 ---
 
-[Connectivity](connectivity) > [Protocols](protocols) > [Stomp](stomp)
-
 ActiveMQ Classic supports the [Stomp](http://stomp.github.com/) protocol and the Stomp - JMS mapping. This makes it easy to write a client in pure [Ruby](#), [Perl](#), [Python](#) or [PHP](#) for working with ActiveMQ Classic.
 
 Please see the [Stomp site](http://stomp.github.io/) for more details

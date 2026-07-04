@@ -2,8 +2,6 @@
 title: "5.8 Migration Guide"
 ---
 
- [Overview](overview) > [Download](download) > [ActiveMQ Classic Classic 5.8.0 Release](activemq-580-release) > [5.8 Migration Guide](58-migration-guide)
-
 There are some changes in 5.8 that may require some code change
 
 1.  New modules may effect your maven pom dependencies  

@@ -2,8 +2,6 @@
 title: "Visualisation Wish List"
 ---
 
-[Features](features) > [Visualisation](visualisation) > [Visualisation Wish List](visualisation-wish-list)
-
 
 There are a zillion different things we could do to visualise the system. Lets use this page to braindump ideas for what kinds of visualisations we could do
 

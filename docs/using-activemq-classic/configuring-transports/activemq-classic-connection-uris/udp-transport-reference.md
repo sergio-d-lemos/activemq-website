@@ -2,8 +2,6 @@
 title: "UDP Transport Reference"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [Configuring Transports](configuring-transports) > [ActiveMQ Classic Connection URIs](activemq-classic-connection-uris) > [UDP Transport Reference](udp-transport-reference)
-
 
 ### The UDP Transport
 

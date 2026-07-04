@@ -2,8 +2,6 @@
 title: "ActiveMQ Classic InactivityMonitor"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [Configuring Transports](configuring-transports) > [ActiveMQ Classic InactivityMonitor](activemq-inactivitymonitor)
-
 
 ActiveMQ Classic InactivityMonitor
 ==================================

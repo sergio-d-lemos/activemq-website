@@ -2,8 +2,6 @@
 title: "Ajax"
 ---
 
-[Connectivity](connectivity) > [Ajax](ajax)
-
 
 Introduction
 ============

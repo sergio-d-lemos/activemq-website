@@ -2,8 +2,6 @@
 title: "OpenWire"
 ---
 
-[Connectivity](connectivity) > [Protocols](protocols) > [OpenWire](openwire)
-
 
 OpenWire is our cross language [Wire Protocol](wire-protocol) to allow native access to ActiveMQ Classic from a number of different languages and platforms. The Java OpenWire transport is the default transport in ActiveMQ Classic 4.x or later. For other languages see the following...
 

@@ -2,8 +2,6 @@
 title: "How do I configure 10s of 1000s of Queues in a single broker"
 ---
 
- [FAQ](faq) > [Configuration](configuration) > [How do I configure 10s of 1000s of Queues in a single broker](how-do-i-configure-10s-of-1000s-of-queues-in-a-single-broker)
-  
 Scaling to tens of thousands of Queues in a single broker is relatively straightforward - but requires some configuration changes from the default.
 
 Reducing Threads

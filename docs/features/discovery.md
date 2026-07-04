@@ -2,8 +2,6 @@
 title: "Discovery"
 ---
 
-[Features](features) > [Discovery](discovery)
-
 
 Discovery Agents
 ----------------

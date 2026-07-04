@@ -2,8 +2,6 @@
 title: "Subscription Recovery Policy"
 ---
 
-[Features](features) > [Consumer Features](consumer-features) > [Subscription Recovery Policy](subscription-recovery-policy)
-
 
 The subscription recovery policy allows you to go back in time when you subscribe to a topic.
 

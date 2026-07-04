@@ -2,8 +2,6 @@
 title: "ObjectMessage"
 ---
 
-[Features](features) > [Message Features](message-features) > [ObjectMessage](objectmessage)
-
 
 Although ObjectMessage usage is generally discouraged, as it introduces coupling of class paths between producers and consumers, ActiveMQ Classic supports them as part of the JMS specification.
 

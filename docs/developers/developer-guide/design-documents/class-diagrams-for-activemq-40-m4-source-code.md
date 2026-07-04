@@ -2,8 +2,6 @@
 title: "Class Diagrams for activemq-4.0-M4 source code"
 ---
 
-[Developers](developers) > [Developer Guide](developer-guide) > [Design Documents](design-documents) > [Class Diagrams for activemq-4.0-M4 source code](class-diagrams-for-activemq-40-m4-source-code)
-
 
 Class Diagrams for activemq-4.0-M4 source code.
 

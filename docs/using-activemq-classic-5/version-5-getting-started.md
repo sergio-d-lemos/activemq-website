@@ -2,8 +2,6 @@
 title: "Version 5 Getting Started"
 ---
 
-[Using ActiveMQ Classic 5](using-activemq-classic-5) > [Version 5 Getting Started](version-5-getting-started)
-
 
 Introduction
 ------------

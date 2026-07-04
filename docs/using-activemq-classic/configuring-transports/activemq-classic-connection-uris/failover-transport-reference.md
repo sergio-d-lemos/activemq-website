@@ -2,8 +2,6 @@
 title: "Failover Transport Reference"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [Configuring Transports](configuring-transports) > [ActiveMQ Classic Connection URIs](activemq-classic-connection-uris) > [Failover Transport Reference](failover-transport-reference)
-
 ### The Failover Transport
 
 The Failover transport layers reconnect logic on top of any of the other transports. The configuration syntax allows you to specify any number of composite URIs. The Failover transport randomly chooses one of the composite URIs and attempts to establish a connection to it. If it does not succeed, or if it subsequently fails, a new connection is established choosing one of the other URIs randomly from the list.

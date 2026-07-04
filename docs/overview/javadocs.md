@@ -2,8 +2,6 @@
 title: "JavaDocs"
 ---
 
-[Overview](Overview) > [JavaDocs](docs)
-
 
 JavaDocs for Apache ActiveMQ Classic
 ----------------------------

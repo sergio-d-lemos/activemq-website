@@ -2,8 +2,6 @@
 title: "Advisory Support in ActiveMQ Classic 3"
 ---
 
-[Site](site.md) > [Old Links](old-links.md) > [Previous Versions](previous-versions) > [Advisory Support in ActiveMQ Classic 3](advisory-support-in-activemq-3)
-
 For users of Apache ActiveMQ Classic 4.0 or later please see [Advisory Message](advisory-message). In previous 3.x versions the following is supported:-
 
 The destination string constants are available in [ActiveMQDestination](http://activemq.codehaus.org/maven/apidocs/org/activemq/message/ActiveMQDestination.html)

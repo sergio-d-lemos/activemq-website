@@ -2,8 +2,6 @@
 title: "Peer Transport Reference"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [Configuring Transports](configuring-transports) > [ActiveMQ Classic Connection URIs](activemq-classic-connection-uris) > [Peer Transport Reference](peer-transport-reference)
-
 
 ### The Peer Transport
 

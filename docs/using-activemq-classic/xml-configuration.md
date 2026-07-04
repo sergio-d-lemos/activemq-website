@@ -2,8 +2,6 @@
 title: "Xml Configuration"
 ---
 
- [Using ActiveMQ Classic](using-activemq-classic) > [Xml Configuration](xml-configuration)
-
 We support an XML deployment descriptor for configuring the ActiveMQ Classic Message Broker. There are many things which can be configured such as
 
 *   [transport connectors](configuring-version-5-transports) which consist of transport channels and wire formats

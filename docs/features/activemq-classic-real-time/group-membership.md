@@ -2,8 +2,6 @@
 title: "Group Membership"
 ---
 
-[Features](features) > [ActiveMQ Classic Real Time](activemq-classic-real-time) > [Group Membership](group-membership)
-
 
 ActiveBlaze supports group membership using a GroupChannel - which can be created from a GroupChannelFactory. You have to explicitly say which group you want to join/leave - and you can join multiple groups. Each GroupChannel has both a globally unique id and a name.
 ```

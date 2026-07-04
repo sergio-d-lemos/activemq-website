@@ -2,8 +2,6 @@
 title: "Per Destination Policies"
 ---
 
- [Features](features) > [Destination Features](destination-features) > [Per Destination Policies](per-destination-policies)
-
 Multiple different policies can be applied per destination (queue or topic), or using wildcard notation to apply to a hierarchy of queues or topics, making it possible, therefore, to configure how different regions of the JMS destination space are handled.
 
 The following properties can be applied to either topics and/or queues:

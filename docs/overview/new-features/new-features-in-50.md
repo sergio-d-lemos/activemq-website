@@ -2,8 +2,6 @@
 title: "New Features in 5.0"
 ---
 
-[Features](features) > [New Features](new-features) > [New Features in 5.0](new-features-in-50)
-
 
 New Features in 5.0
 -------------------

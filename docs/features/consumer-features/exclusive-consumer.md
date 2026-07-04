@@ -2,8 +2,6 @@
 title: "Exclusive Consumer"
 ---
 
-[Features](features) > [Consumer Features](consumer-features) > [Exclusive Consumer](exclusive-consumer)
-
 
 ### Background
 

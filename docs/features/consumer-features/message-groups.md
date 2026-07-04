@@ -2,8 +2,6 @@
 title: "Message Groups"
 ---
 
-[Features](features) > [Consumer Features](consumer-features) > [Message Groups](message-groups)
-
 
 Message Groups
 --------------

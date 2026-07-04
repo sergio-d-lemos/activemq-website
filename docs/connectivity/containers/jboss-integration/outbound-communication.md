@@ -2,8 +2,6 @@
 title: "Outbound Communication"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [JBoss Integration](jboss-integration) > [Outbound Communication](JBoss Integration/outbound-communication)
-
 
 Configuring a Session Bean to send messages to ActiveMQ Classic
 -------------------------------------------------------

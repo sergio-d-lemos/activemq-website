@@ -2,8 +2,6 @@
 title: "Configure version 5 Brokers"
 ---
 
-[Using ActiveMQ Classic 5](using-activemq-classic-5) > [Configure version 5 Brokers](configure-version-5-brokers)
-
 
 ### Overview
 

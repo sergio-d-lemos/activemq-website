@@ -2,8 +2,6 @@
 title: "Load Testing with Camel"
 ---
 
-[Features](features) > [Performance](performance) > [Load Testing with Camel](load-testing-with-camel)
-
 
 Load Testing with Camel
 -----------------------

@@ -2,8 +2,6 @@
 title: "JNDI Support"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [JNDI Support](jndi-support)
-
 
 ActiveMQ Classic will work with any JNDI provider capable of storing Java objects. However it is common to require a JNDI initial context to be able to run many JMS example programs, like [Sun's JMS tutorial.](http://java.sun.com/products/jms/tutorial/1_3_1-fcs/doc/jms_tutorialTOC.html)
 

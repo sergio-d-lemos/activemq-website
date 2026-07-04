@@ -2,8 +2,6 @@
 title: "Web Console"
 ---
 
-[Tools](tools) > [Web Console](web-console)
-
 
 The ActiveMQ Classic Web Console is a web based administration tool for working with ActiveMQ Classic. When used with the [JMX](jmx) support it can be an invaluable tool for working with ActiveMQ Classic
 

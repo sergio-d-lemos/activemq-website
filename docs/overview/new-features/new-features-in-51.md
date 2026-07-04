@@ -2,8 +2,6 @@
 title: "New Features in 5.1"
 ---
 
-[Features](features) > [New Features](new-features) > [New Features in 5.1](new-features-in-51)
-
 
 New Features in 5.1
 -------------------

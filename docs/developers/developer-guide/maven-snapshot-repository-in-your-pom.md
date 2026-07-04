@@ -2,8 +2,6 @@
 title: "Maven SNAPSHOT Repository in your POM"
 ---
 
-[Developers](developers) > [Developer Guide](developer-guide) > [Maven SNAPSHOT Repository in your POM](maven-snapshot-repository-in-your-pom)
-
 
 ActiveMQ Classic
 

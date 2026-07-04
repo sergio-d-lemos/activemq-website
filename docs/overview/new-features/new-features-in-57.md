@@ -2,8 +2,6 @@
 title: "New Features in 5.7"
 ---
 
-[Features](features) > [New Features](new-features) > [New Features in 5.7](new-features-in-57)
-
 
 *   Java 7 support (compiled with jdk6 and validated with jdk7)
 *   [Secure WebSockets (wss) transport](websockets.md)

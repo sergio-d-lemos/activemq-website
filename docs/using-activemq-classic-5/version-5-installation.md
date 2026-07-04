@@ -2,8 +2,6 @@
 title: "Version 5 Installation"
 ---
 
-[Using ActiveMQ Classic 5](using-activemq-classic-5) > [Version 5 Installation](version-5-installation)
-
 
 *   [Download](download) a binary distribution of ActiveMQ Classic and unpack it into some directory.
 

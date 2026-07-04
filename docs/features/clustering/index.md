@@ -2,8 +2,6 @@
 title: "Clustering"
 ---
 
-[Features](features) > [Clustering](clustering)
-
 
 Clustering is a large topic and often means different things to different people. We'll try to list the various aspects of clustering and how they relate to ActiveMQ Classic
 

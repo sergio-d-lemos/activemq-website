@@ -2,8 +2,6 @@
 title: "Destination Features"
 ---
 
-[Features](features) > [Destination Features](destination-features)
-
 
 *   [Composite Destinations](composite-destinations)
 *   [Configure Startup Destinations](configure-startup-destinations)

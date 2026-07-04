@@ -2,8 +2,6 @@
 title: "Shiro"
 ---
 
-[Features](features) > [Security](security) > [Shiro](shiro)
-
 
 ActiveMQ Classic 5.10 and later provides a fully customizable security experience using [Apache Shiro](http://shiro.apache.org).
 

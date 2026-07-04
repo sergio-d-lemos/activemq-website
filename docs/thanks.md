@@ -4,8 +4,6 @@ title: "Thanks"
 
   
 
-[Index](index) > [Thanks](thanks)
-
 
 ActiveMQ is a successful project because of the large and diverse community that contributes to it. 
 

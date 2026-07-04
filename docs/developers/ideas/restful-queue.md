@@ -2,8 +2,6 @@
 title: "RESTful Queue"
 ---
 
-[Developers](developers) > [Ideas](ideas) > [RESTful Queue](restful-queue)
-
 
 RESTful Queue
 -------------

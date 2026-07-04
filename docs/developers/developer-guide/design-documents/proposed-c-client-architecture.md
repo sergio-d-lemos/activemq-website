@@ -2,8 +2,6 @@
 title: "Proposed C Client Architecture"
 ---
 
-[Developers](developers) > [Developer Guide](developer-guide) > [Design Documents](design-documents) > [Proposed C Client Architecture](proposed-c-client-architecture)
-
 
 4/16/06 - Attaching wire_formats.pdf - a first cut at defining all of the commands for both openwire an stomp.  Working toward an architecture that will support both. 
 

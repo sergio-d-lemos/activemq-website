@@ -2,8 +2,6 @@
 title: "Version 5 Initial Configuration"
 ---
 
-[Using ActiveMQ Classic 5](using-activemq-classic-5) > [Version 5 Initial Configuration](version-5-initial-configuration)
-
 Firstly you need to add the jars to your classpath.
 
 Required JARs

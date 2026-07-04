@@ -2,8 +2,6 @@
 title: "zOS"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [zOS](zos)
-
 
 Running ActiveMQ Classic on z/OS
 ========================

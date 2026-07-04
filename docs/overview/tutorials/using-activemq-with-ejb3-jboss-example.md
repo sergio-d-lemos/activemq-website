@@ -4,8 +4,6 @@ title: "Using ActiveMQ Classic with EJB3 (JBoss Example)"
 
   
 
-[Index](index) > [Using ActiveMQ Classic with EJB3 (JBoss Example)](using-activemq-with-ejb3-jboss-example)
-
 I've seen numerous postings regarding ActiveMQ Classic with EJB3, and variations of a datasource XML file for use with JBoss integration.
 
 However, they don't quite work. Here is what worked for me, it is actually quite simple:

@@ -4,8 +4,6 @@ title: "SiteMap"
 
   
 
-[Site](site) > [SiteMap](sitemap)
-
 
 Using ActiveMQ Classic
 --------------

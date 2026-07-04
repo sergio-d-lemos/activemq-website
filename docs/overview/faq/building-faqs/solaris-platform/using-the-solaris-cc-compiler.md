@@ -2,8 +2,6 @@
 title: "Using the Solaris CC compiler"
 ---
 
-[Index](index.html) > [Community](community) > [FAQ](faq) > [Building FAQs](building-faqs) > [Solaris Platform](solaris-platform) > [Using the Solaris CC compiler](Solaris Platform/using-the-solaris-cc-compiler)
-
 Use the Correct Compiler
 
 This Entry only applies to the Sun Studio 11 and above compiler. The Sun Workshop compiler does not seem to support building this library.

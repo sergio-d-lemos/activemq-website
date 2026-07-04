@@ -2,8 +2,6 @@
 title: "Scaling Queues"
 ---
 
-[Features](features) > [Horizontal Scaling](horizontal-scaling) > [Scaling Queues](Horizontal Scaling/scaling-queues)
-
 
 Scaling to tens of thousands of Queues in a single broker is relatively straightforward - but requires some configuration changes from the default.
 

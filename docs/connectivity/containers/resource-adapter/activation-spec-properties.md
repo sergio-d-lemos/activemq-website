@@ -2,8 +2,6 @@
 title: "Activation Spec Properties"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [Resource Adapter](resource-adapter) > [Activation Spec Properties](activation-spec-properties)
-
 
 An Activation Spec is used to configure the message delivery to an MDB. The ejb-jar.xml deployment descriptor needs to include a <activation-config> element inside the <message-driven> element like:
 ```

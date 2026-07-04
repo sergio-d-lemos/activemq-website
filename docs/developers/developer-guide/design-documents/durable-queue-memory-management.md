@@ -2,8 +2,6 @@
 title: "Durable Queue Memory Management"
 ---
 
-[Developers](developers) > [Developer Guide](developer-guide) > [Design Documents](design-documents) > [Durable Queue Memory Management](durable-queue-memory-management)
-
 
 The current 3.x code can have issues with massive queues with un-acknowledged messages; its complex due to consumption from multiple points in the queue, consumers coming & going, selectors matching only certain points in the queue etc.
 

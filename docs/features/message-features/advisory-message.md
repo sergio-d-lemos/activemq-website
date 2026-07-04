@@ -2,8 +2,6 @@
 title: "Advisory Message"
 ---
 
-[Features](features) > [Message Features](message-features) > [Advisory Message](advisory-message)
-
 
 ActiveMQ Classic supports advisory messages which allows you to watch the system using regular JMS messages. Currently we have advisory messages that support:
 

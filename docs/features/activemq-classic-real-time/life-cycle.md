@@ -2,8 +2,6 @@
 title: "Life Cycle"
 ---
 
-[Features](features) > [ActiveMQ Classic Real Time](activemq-classic-real-time) > [Life Cycle](life-cycle)
-
 
 Life cycle of Channels
 ----------------------

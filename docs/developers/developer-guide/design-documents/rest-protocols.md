@@ -2,8 +2,6 @@
 title: "REST protocols"
 ---
 
-[Developers](developers) > [Developer Guide](developer-guide) > [Design Documents](design-documents) > [REST protocols](rest-protocols)
-
 
 There are many ways to map JMS to REST...
 

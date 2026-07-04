@@ -2,8 +2,6 @@
 title: "Compile ActiveMQ Classic with GCJ"
 ---
 
-[Connectivity](connectivity) > [Cross Language Clients](cross-language-clients) > [C Integration](c-integration) > [Compile ActiveMQ Classic with GCJ](compile-activemq-with-gcj)
-
 
 You can use [GCJ](http://gcc.gnu.org/java/) to build ActiveMQ Classic as a shared library you can reuse from C++.
 

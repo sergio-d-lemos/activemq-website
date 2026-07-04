@@ -2,8 +2,6 @@
 title: "Active Groups"
 ---
 
-[Features](features) > [Active Groups](active-groups)
-
 
 Active Groups is a dynamic collaboration framework so simplify message passing and shared state between members of the group. It is available in ActiveMQ Classic 6.0
 

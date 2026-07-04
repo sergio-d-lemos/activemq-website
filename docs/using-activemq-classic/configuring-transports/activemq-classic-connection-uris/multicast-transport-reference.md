@@ -2,8 +2,6 @@
 title: "Multicast Transport Reference"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [Configuring Transports](configuring-transports) > [ActiveMQ Classic Connection URIs](activemq-classic-connection-uris) > [Multicast Transport Reference](multicast-transport-reference)
-
 
 ### The Multicast Transport
 

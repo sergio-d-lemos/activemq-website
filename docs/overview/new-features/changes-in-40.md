@@ -2,8 +2,6 @@
 title: "Changes in 4.0"
 ---
 
- [Features](features) > [New Features](new-features) > [Changes in 4.0](changes-in-40)
-
 ### New Features in 4.0
 
 *   [MasterSlave](masterslave) provides support for continuous availability and fault tolerance of brokers to be able to handle catastrophic hardware failure and not loose a message (or get duplicates).

@@ -2,8 +2,6 @@
 title: "JMeter System Tests"
 ---
 
-[Developers](developers) > [JMeter System Tests](jmeter-system-tests)
-
 
 ### JMeter System Tests
 

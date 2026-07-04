@@ -2,8 +2,6 @@
 title: "SSL Transport Reference"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [Configuring Transports](configuring-transports) > [ActiveMQ Classic Connection URIs](activemq-classic-connection-uris) > [SSL Transport Reference](ssl-transport-reference)
-
 
 ### The SSL Transport
 

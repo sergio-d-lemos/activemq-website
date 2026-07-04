@@ -2,8 +2,6 @@
 title: "Version 5 Examples"
 ---
 
-[Using ActiveMQ Classic 5](using-activemq-classic-5) > [Version 5 Examples](version-5-examples)
-
 
 Since version **5.12.0**, Apache ActiveMQ Classic comes with the new tool that can be used to produce and consume messages from the broker.
 

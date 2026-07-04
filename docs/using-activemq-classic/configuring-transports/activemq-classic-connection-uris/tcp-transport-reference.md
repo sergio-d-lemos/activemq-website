@@ -2,8 +2,6 @@
 title: "TCP Transport Reference"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [Configuring Transports](configuring-transports) > [ActiveMQ Classic Connection URIs](activemq-classic-connection-uris) > [TCP Transport Reference](tcp-transport-reference)
-
 
 ### The TCP Transport
 

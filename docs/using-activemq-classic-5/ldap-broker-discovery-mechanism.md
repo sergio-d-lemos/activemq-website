@@ -2,8 +2,6 @@
 title: "LDAP Broker Discovery Mechanism"
 ---
 
-[Using ActiveMQ Classic 5](using-activemq-classic-5) > [LDAP Broker Discovery Mechanism](ldap-broker-discovery-mechanism)
-
 
 Configuring network topologies can be quite tedious when the number of brokers in the system is large. To help ease the configuration overhead for these types of situations, a broker can be configured to look up its broker connections using a LDAP v3 directory server.
 

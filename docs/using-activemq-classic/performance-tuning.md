@@ -2,8 +2,6 @@
 title: "Performance Tuning"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [Performance Tuning](performance-tuning)
-
 
 For a more complete overview see [Performance](performance).
 

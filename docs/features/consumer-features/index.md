@@ -2,8 +2,6 @@
 title: "Consumer Features"
 ---
 
-[Features](features) > [Consumer Features](consumer-features)
-
 
 *   [Consumer Dispatch Async](consumer-dispatch-async)
 *   [Consumer Priority](consumer-priority)

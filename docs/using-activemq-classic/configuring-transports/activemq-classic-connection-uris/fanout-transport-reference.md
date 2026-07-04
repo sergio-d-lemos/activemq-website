@@ -2,8 +2,6 @@
 title: "Fanout Transport Reference"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [Configuring Transports](configuring-transports) > [ActiveMQ Classic Connection URIs](activemq-classic-connection-uris) > [Fanout Transport Reference](fanout-transport-reference)
-
 
 ### The Fanout Transport
 

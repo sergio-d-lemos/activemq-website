@@ -2,8 +2,6 @@
 title: "Security"
 ---
 
-[Features](features) > [Security](security)
-
 ActiveMQ Classic 4.x and greater provides pluggable security through various different providers.
 
 The most common providers are

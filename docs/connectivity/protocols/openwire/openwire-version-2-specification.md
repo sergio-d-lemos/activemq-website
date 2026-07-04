@@ -2,8 +2,6 @@
 title: "OpenWire Version 2 Specification"
 ---
 
-[Connectivity](connectivity) > [Protocols](protocols) > [OpenWire](openwire) > [OpenWire Version 2 Specification](openwire-version-2-specification)
-
 
 > **OpenWire Version 2 is not the latest version.**
 > 

@@ -2,8 +2,6 @@
 title: "KahaDB Master Slave"
 ---
 
-[Features](features) > [Clustering](clustering) > [MasterSlave](masterslave) > [KahaDB Master Slave](kahadb-master-slave)
-
 
 > **Note**  
 > 

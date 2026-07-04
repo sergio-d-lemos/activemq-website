@@ -2,8 +2,6 @@
 title: "Developing Plugins"
 ---
 
-[Developers](developers) > [Developer Guide](developer-guide) > [Developing Plugins](developing-plugins)
-
 
 Apache ActiveMQ Classic is based on the model of POJOs and _Dependency Injection_. If you are developing [Interceptors](interceptors) or additional components or plugins for ActiveMQ Classic then the first thing you should do is develop the code as if you are writing any other Spring component, using dependency injection.
 

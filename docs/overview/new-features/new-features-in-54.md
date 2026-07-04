@@ -2,8 +2,6 @@
 title: "New Features in 5.4"
 ---
 
-[Features](features) > [New Features](new-features) > [New Features in 5.4](new-features-in-54)
-
 
 New Features in 5.4.1
 ---------------------

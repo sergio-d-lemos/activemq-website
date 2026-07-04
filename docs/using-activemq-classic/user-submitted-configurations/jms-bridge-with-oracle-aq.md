@@ -2,8 +2,6 @@
 title: "JMS Bridge With Oracle AQ"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [User Submitted Configurations](user-submitted-configurations) > [JMS Bridge With Oracle AQ](jms-bridge-with-oracle-aq)
-
 
 ### Example of a configuration that shows how to connect to Oracle AQ queues and topics.
 ```

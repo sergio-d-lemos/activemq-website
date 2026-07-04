@@ -2,8 +2,6 @@
 title: "SJSAS with GenericJMSRA"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [SJSAS with GenericJMSRA](sjsas-with-genericjmsra)
-
 
 Using ActiveMQ Classic, Generic JMS RA and SJSAS (Glassfish)
 ====================================================

@@ -2,8 +2,6 @@
 title: "REST"
 ---
 
-[Connectivity](connectivity) > [Protocols](protocols) > [REST](rest)
-
 ActiveMQ Classic implements a RESTful API to messaging which allows any web capable device to publish or consume messages using a regular HTTP POST or GET.
 
 If you are interested in messaging directly from web browsers you might wanna check out our [Ajax](ajax) or [WebSockets](websockets) support or try [running the REST examples](web-samples)

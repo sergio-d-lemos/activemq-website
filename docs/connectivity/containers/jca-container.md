@@ -2,8 +2,6 @@
 title: "JCA Container"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [JCA Container](jca-container)
-
 
 The JCA Container is moving
 

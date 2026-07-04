@@ -2,8 +2,6 @@
 title: "Interceptors"
 ---
 
-[Features](features) > [Interceptors](interceptors)
-
 ActiveMQ Classic has a sophisticated _interceptor stack_ so that you can attach whatever functionality you require into the broker in an easy way without complicating all of the other broker code. This has really helped us keep the code clean and modular while offering powerful extension points.
 
 For an example of the kinds of things you can do with interceptors see the following pages

@@ -2,8 +2,6 @@
 title: "JMS to JMS Bridge"
 ---
 
-[Connectivity](connectivity) > [JMS to JMS Bridge](jms-to-jms-bridge)
-
 
 > **Warning**, try Camel first!
 > 

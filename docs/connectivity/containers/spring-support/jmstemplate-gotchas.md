@@ -2,8 +2,6 @@
 title: "JmsTemplate Gotchas"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [Spring Support](spring-support) > [JmsTemplate Gotchas](jmstemplate-gotchas)
-
 
 The thing to remember is JmsTemplate is designed for use in EJBs using the EJB containers JMS pooling abstraction. So every method will typically create a connection, session, producer or consumer, do something, then close them all down again. The idea being that this will use the J2EE containers pooling mechanism to pool the JMS resources under the covers. Without using a pooled JMS provider from the EJB container this is the worst possible way of working with JMS; since typically each create/close of a connection, producer/consumer results in a request-response with the JMS broker.
 

@@ -2,8 +2,6 @@
 title: "C Integration"
 ---
 
-[Connectivity](connectivity) > [Cross Language Clients](cross-language-clients) > [C Integration](c-integration)
-
 
 It is very common for an organisation to have lots of legacy C code which needs integration into the message bus. The current available solutions are
 

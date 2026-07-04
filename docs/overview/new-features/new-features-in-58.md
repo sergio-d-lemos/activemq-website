@@ -2,8 +2,6 @@
 title: "New Features in 5.8"
 ---
 
-[Features](features) > [New Features](new-features) > [New Features in 5.8](new-features-in-58)
-
 
 *   [AMQP](amqp)
 *   new feature modules and activemq-client module allowing smaller foorprint

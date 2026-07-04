@@ -2,8 +2,6 @@
 title: "Consumer Priority"
 ---
 
-[Features](features) > [Consumer Features](consumer-features) > [Consumer Priority](consumer-priority)
-
 
 ### Background
 

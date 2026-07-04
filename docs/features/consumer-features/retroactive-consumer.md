@@ -2,8 +2,6 @@
 title: "Retroactive Consumer"
 ---
 
-[Features](features) > [Consumer Features](consumer-features) > [Retroactive Consumer](retroactive-consumer)
-
 
 Background
 ----------

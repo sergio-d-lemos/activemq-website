@@ -2,8 +2,6 @@
 title: "Cached LDAP Authorization Module"
 ---
 
-[Features](features) > [Security](security) > [Cached LDAP Authorization Module](cached-ldap-authorization-module)
-
 
 > **Available since 5.6**
 > 

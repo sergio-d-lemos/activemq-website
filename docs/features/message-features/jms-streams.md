@@ -2,8 +2,6 @@
 title: "JMS Streams"
 ---
 
-[Features](features) > [Message Features](message-features) > [JMS Streams](jms-streams)
-
 
 > **DEPRECATED**
 

@@ -2,8 +2,6 @@
 title: "Code Overview"
 ---
 
-[Developers](developers) > [Code Overview](code-overview)
-
 
 Architecture
 ============

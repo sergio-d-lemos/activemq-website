@@ -2,8 +2,6 @@
 title: "Logging a warning if you forget to start a Connection"
 ---
 
-[Features](features) > [Logging a warning if you forget to start a Connection](logging-a-warning-if-you-forget-to-start-a-connection)
-
 
 Logging a warning if you forget to start a Connection
 -----------------------------------------------------

@@ -2,8 +2,6 @@
 title: "Producer Flow Control"
 ---
 
-[Features](features) > [Message Dispatching Features](message-dispatching-features) > [Producer Flow Control](producer-flow-control)
-
 
 Producer Flow Control
 ---------------------

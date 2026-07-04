@@ -2,8 +2,6 @@
 title: "Structured Message Properties and MapMessages"
 ---
 
-[Features](features) > [Message Features](message-features) > [Structured Message Properties and MapMessages](structured-message-properties-and-mapmessages)
-
 
 Structured Message Properties and MapMessages
 ---------------------------------------------

@@ -2,8 +2,6 @@
 title: "The Proxy Connector"
 ---
 
-[Features](features) > [The Proxy Connector](the-proxy-connector)
-
 
 The Proxy Connector
 -------------------

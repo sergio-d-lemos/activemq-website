@@ -2,8 +2,6 @@
 title: "Unix Shell Script"
 ---
 
-[Features](features) > [Unix](unix) > [Unix Shell Script](unix-shell-script)
-
 Functional overview
 ===================
 

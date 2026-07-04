@@ -2,8 +2,6 @@
 title: "New Features in 5.6"
 ---
 
-[Features](features) > [New Features](new-features) > [New Features in 5.6](new-features-in-56)
-
 
 New Features in 5.6.0
 ---------------------

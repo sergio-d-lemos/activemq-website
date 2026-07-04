@@ -2,8 +2,6 @@
 title: "TimeStampPlugin"
 ---
 
-[Features](features) > [Interceptors](interceptors) > [TimeStampPlugin](timestampplugin)
-
 
 The TimeStampPlugin is a Broker interceptor which updates a JMS Client's time stamp on the message with a broker time stamp. This can be useful when the clocks on client machines are known to not be correct and you can only trust the time set on the broker machines.
 

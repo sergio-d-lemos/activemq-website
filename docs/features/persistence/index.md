@@ -2,8 +2,6 @@
 title: "Persistence"
 ---
 
-[Features](features) > [Persistence](persistence)
-
 ActiveMQ Classic V5.14.2 / V5.17.0
 -------------
 

@@ -2,8 +2,6 @@
 title: "Enterprise Integration Patterns"
 ---
 
-[Features](features) > [Enterprise Integration Patterns](enterprise-integration-patterns)
-
 
 Enterprise Integration Patterns
 -------------------------------

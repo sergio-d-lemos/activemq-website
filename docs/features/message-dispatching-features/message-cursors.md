@@ -2,8 +2,6 @@
 title: "Message Cursors"
 ---
 
-[Features](features) > [Message Dispatching Features](message-dispatching-features) > [Message Cursors](message-cursors)
-
 
 Message Cursors
 ---------------

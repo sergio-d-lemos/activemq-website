@@ -2,8 +2,6 @@
 title: "OSGi Integration"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [OSGi Integration](osgi-integration)
-
 
 Introduction
 ============

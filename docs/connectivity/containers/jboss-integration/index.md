@@ -2,8 +2,6 @@
 title: "Integrating Apache ActiveMQ Classic with JBoss"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [Integrating Apache ActiveMQ Classic with JBoss](integrating-apache-activemq-classic-with-jboss)
-
 
 Integrating Apache ActiveMQ Classic with JBoss
 ======================================

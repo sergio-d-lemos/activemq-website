@@ -2,8 +2,6 @@
 title: "Resource Adapter"
 ---
 
-[Connectivity](connectivity) > [Containers](containers) > [Resource Adapter](resource-adapter)
-
 
 Introduction
 ------------

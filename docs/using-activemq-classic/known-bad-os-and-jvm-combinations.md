@@ -2,8 +2,6 @@
 title: "Known Bad OS and JVM Combinations"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [Known Bad OS and JVM Combinations](known-bad-os-and-jvm-combinations)
-
 
 Operating System|Java Virtual Machine|Problem description
 ---|---|---

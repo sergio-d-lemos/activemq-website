@@ -2,8 +2,6 @@
 title: "JDBC Master Slave"
 ---
 
- [Features](features) > [Clustering](clustering) > [MasterSlave](masterslave) > [JDBC Master Slave](jdbc-master-slave)
-
 JDBC Master Slave
 -----------------
 

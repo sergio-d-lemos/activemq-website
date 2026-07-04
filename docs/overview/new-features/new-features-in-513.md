@@ -2,8 +2,6 @@
 title: "New Features in 5.13"
 ---
 
-[Features](features) > [New Features](new-features) > [New Features in 5.13](new-features-in-513)
-
 
 New Features in 5.13.0
 ----------------------

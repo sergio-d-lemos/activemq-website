@@ -2,8 +2,6 @@
 title: "Example Testing Scenario"
 ---
 
-[Developers](developers) > [Integration Tests](integration-tests) > [Example Testing Scenario](example-testing-scenario)
-
 
 ActiveMQ Classic Performance Module
 ---------------------------

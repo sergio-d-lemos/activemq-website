@@ -2,8 +2,6 @@
 title: "WebSockets"
 ---
 
-[Connectivity](connectivity) > [WebSockets](websockets)
-
 
 Introduction
 ============

@@ -2,8 +2,6 @@
 title: "Visualisation"
 ---
 
-[Features](features) > [Visualisation](visualisation)
-
 
 Inspired greatly by [Gregor and Erik's great talk at TSSJS 2006](http://www.enterpriseintegrationpatterns.com/talks.html) we've started to add some visualisation plugins into Apache ActiveMQ Classic.
 

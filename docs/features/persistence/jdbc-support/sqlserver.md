@@ -2,8 +2,6 @@
 title: "SQLServer"
 ---
 
-[Features](features) > [Persistence](persistence) > [JDBC Support](jdbc-support) > [SQLServer](Persistence/JDBC Support/sqlserver)
-
 
 SQL Server
 ----------

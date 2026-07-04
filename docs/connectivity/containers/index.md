@@ -2,8 +2,6 @@
 title: "Containers"
 ---
 
-[Connectivity](connectivity) > [Containers](containers)
-
 
 This page lists the various containers that Apache ActiveMQ Classic works inside
 

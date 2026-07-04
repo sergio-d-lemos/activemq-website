@@ -2,8 +2,6 @@
 title: "AUTO"
 ---
 
-[Connectivity](connectivity) > [Protocols](protocols) > [AUTO](auto)
-
 Starting with version 5.13.0, ActiveMQ Classic supports wire format protocol detection.   OpenWire, STOMP, AMQP, and MQTT can be automatically detected.  This allows one transport to be shared for all 4 types of clients.
 
 ### Enabling AUTO over TCP

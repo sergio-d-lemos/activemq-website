@@ -2,8 +2,6 @@
 title: "Broker Properties URI"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [Configuring Transports](configuring-transports) > [ActiveMQ Classic Connection URIs](activemq-classic-connection-uris) > [Broker Configuration URI](broker-configuration-uri) > [Broker Properties URI](broker-properties-uri)
-
 
 Broker Properties URI
 ---------------------

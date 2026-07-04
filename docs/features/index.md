@@ -2,8 +2,6 @@
 title: "Apache ActiveMQ Features"
 ---
 
- [Features](features)
-
 Apache ActiveMQ is packed with features; to get an idea you might want to look at the [Features Overview](features-overview) otherwise here is the list of all of the main features...
 
 *   [Active Groups](active-groups)

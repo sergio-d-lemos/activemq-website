@@ -2,8 +2,6 @@
 title: "New Features in 4.1"
 ---
 
-[Features](features) > [New Features](new-features) > [New Features in 4.1](new-features-in-41)
-
 
 New Features in Apache ActiveMQ Classic 4.1
 -----------------------------------

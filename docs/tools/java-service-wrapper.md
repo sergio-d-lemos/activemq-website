@@ -2,8 +2,6 @@
 title: "Java Service Wrapper"
 ---
 
-[Tools](tools) > [Java Service Wrapper](java-service-wrapper)
-
 
 This page provides some useful information on running the ActiveMQ Classic broker as a windows-NT service or a daemon thread in Linux or Unix systems.
 

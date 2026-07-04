@@ -2,8 +2,6 @@
 title: "Scaling the Depth of a Queue"
 ---
 
-[Features](features) > [Scaling the Depth of a Queue](scaling-the-depth-of-a-queue)
-
 
 Nearly all messaging systems (certainly open source ones) hold either a copy of a persistent message or a reference to a persisted message in memory. This is primarily to try and improve performance, but it also can significantly decrease the complexity of implementation. In fact ActiveMQ Classic version 4 and below worked this - way - by holding references to persisted messages in memory.
 

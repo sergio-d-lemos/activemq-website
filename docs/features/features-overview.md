@@ -2,8 +2,6 @@
 title: "Features Overview"
 ---
 
-[Features](features) > [Features Overview](features-overview)
-
 
 *   Supports a variety of [Cross Language Clients and Protocols](cross-language-clients) from Java, C, C++, C#, Ruby, Perl, Python, PHP
     *   [OpenWire](openwire) for high performance clients in Java, C, C++, C#

@@ -2,8 +2,6 @@
 title: "Maven2 ActiveMQ Classic Broker Plugin"
 ---
 
-[Tools](tools) > [Maven2 ActiveMQ Classic Broker Plugin](maven2-activemq-broker-plugin)
-
 
 ActiveMQ Classic provides a Maven2 plugin to easily startup a JMS broker. It is useful to quickly boot up a message broker in your Maven2 project for debugging or for doing integration tests.
 

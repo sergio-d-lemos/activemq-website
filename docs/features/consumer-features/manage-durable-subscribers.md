@@ -2,8 +2,6 @@
 title: "Manage Durable Subscribers"
 ---
 
-[Features](features) > [Consumer Features](consumer-features) > [Manage Durable Subscribers](manage-durable-subscribers)
-
 
 [Durable topic subscribers](how-do-durable-queues-and-topics-work) that are offline for a long period of time are usually not desired in the system. The reason for that is that broker needs to keep all the messages sent to those topics for the said subscribers. And this message piling can over time exhaust broker store limits for example and lead to the overall slowdown of the system.
 

@@ -2,8 +2,6 @@
 title: "Slow Consumers"
 ---
 
-[Developers](developers) > [Developer Guide](developer-guide) > [Design Documents](design-documents) > [Slow Consumers](Design Documents/slow-consumers)
-
 
 Blocked Transport
 -----------------

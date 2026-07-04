@@ -2,8 +2,6 @@
 title: "MQTT"
 ---
 
-[Connectivity](connectivity) > [Protocols](protocols) > [MQTT](mqtt)
-
 
 ActiveMQ Classic supports the [MQTT](http://mqtt.org/) protocol and will automatically map between JMS/NMS and MQTT clients. MQTT is a machine-to-machine (M2M) publish/subscribe messaging transport.
 

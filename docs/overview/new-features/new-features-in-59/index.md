@@ -2,8 +2,6 @@
 title: "New Features in 5.9"
 ---
 
-[Features](features) > [New Features](new-features) > [New Features in 5.9](new-features-in-59)
-
 
 *   [Replicated LevelDB Store](replicated-leveldb-store) for shared nothing Master/Slave.
 *   [Runtime Configuration](New Features in 5.9/runtime-Community/FAQ/configuration)

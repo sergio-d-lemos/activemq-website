@@ -2,8 +2,6 @@
 title: "Replicated Message Store"
 ---
 
-[Features](features) > [Clustering](clustering) > [Replicated Message Store](replicated-message-store)
-
 
 If messages are stored on the hard drive of a broker or inside a single database; then you have a single point of failure with respect to the message persistence. If you lose the entire machine, disk or database, you have lost messages.
 

@@ -4,8 +4,6 @@ title: "PMC Templates"
 
  
 
-[Community](community) > [PMC Templates](pmc-templates)
-
 
 The following templates are for use by the ActiveMQ PMC:
 

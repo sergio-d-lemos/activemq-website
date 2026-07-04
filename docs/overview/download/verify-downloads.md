@@ -2,8 +2,6 @@
 title: "Verify Downloads"
 ---
 
-[Index](index) > [Verify Downloads](verify-downloads)
-
 
 Verify the Integrity of Downloads
 ---------------------------------

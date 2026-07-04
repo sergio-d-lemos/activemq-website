@@ -2,8 +2,6 @@
 title: "Complex Single Broker Configuration (STOMP only)"
 ---
 
-[Using ActiveMQ Classic](using-activemq-classic) > [User Submitted Configurations](user-submitted-configurations) > [Complex Single Broker Configuration (STOMP only)](complex-single-broker-configuration-stomp-only)
-
 
 Example of an ActiveMQ Classic configuration with predefined queues, simple destination security (could easily update it to JAAS), complex Web Console security with Jetty JAAS, and JMX security too.
 

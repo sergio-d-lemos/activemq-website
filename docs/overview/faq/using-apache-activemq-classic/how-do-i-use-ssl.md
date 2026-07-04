@@ -2,8 +2,6 @@
 title: "How do I use SSL"
 ---
 
- [Community](community) > [FAQ](faq) > [Using Apache ActiveMQ Classic](using-apache-activemq-classic) > [How do I use SSL](how-do-i-use-ssl)
-
 ### Setting up the Key and Trust Stores
 
 Also see [Tomcat's SSL instructions](http://jakarta.apache.org/tomcat/tomcat-5.5-doc/ssl-howto.html) for more info. The following was provided by Colin Kilburn. Thanks Colin!
