@@ -2,7 +2,7 @@
 title: "How do I enable debug logging"
 ---
 
- [FAQ](faq) > [Using Apache ActiveMQ Classic](using-apache-activemq-classic) > [How do I enable debug logging](how-do-i-enable-debug-logging)
+ [FAQ](..) > [Using Apache ActiveMQ Classic](.) > [How do I enable debug logging](how-do-i-enable-debug-logging)
 
 
 How do I enable debug logging?

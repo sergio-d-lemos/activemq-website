@@ -2,7 +2,7 @@
 title: "What version should I use"
 ---
 
- [FAQ](faq) > [General](general) > [What version should I use](what-version-should-i-use)
+ [FAQ](..) > [General](.) > [What version should I use](what-version-should-i-use)
 
 
 ActiveMQ Classic version numbers follow the **MAJOR.MINOR.PATCH** convention used by many software projects.  In general, patch releases are done only when there are significant enough bugs found in the current minor version to justify a release sooner than the next minor release (though 5.9.1 was an exception, as it was just as large as a minor release).  As a result, you should generally use the most recent patch version of whichever minor release you choose; there is very seldom a reason to pick a patch version other than the latest within a given minor version.

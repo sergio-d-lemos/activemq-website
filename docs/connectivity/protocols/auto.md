@@ -16,7 +16,7 @@ To configure ActiveMQ Classic auto wire format detection over an SSL connection 
 ```
 <transportConnector name="auto+ssl" uri="auto+ssl://localhost:5671"/>
 ```
-*   For more details on using SSL with ActiveMQ Classic, see the following article ([How do I use SSL](how-do-i-use-ssl)).
+*   For more details on using SSL with ActiveMQ Classic, see the following article ([How do I use SSL](../../overview/faq/using-apache-activemq-classic/how-do-i-use-ssl)).
 
 ### Enabling AUTO over NIO
 

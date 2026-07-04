@@ -2,7 +2,7 @@
 title: "Can I modify messages on a queue"
 ---
 
- [FAQ](faq) > [JMS](jms) > [Can I modify messages on a queue](can-i-modify-messages-on-a-queue)
+ [FAQ](..) > [JMS](.) > [Can I modify messages on a queue](can-i-modify-messages-on-a-queue)
 
 
 Can I modify messages on a queue?

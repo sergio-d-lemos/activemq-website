@@ -2,7 +2,7 @@
 title: "java.lang.NoSuchMethodError"
 ---
 
- [FAQ](faq) > [Errors](errors) > [Exceptions](exceptions) > [java.lang.NoSuchMethodError](javalangnosuchmethoderror)
+ [FAQ](../..) > [Errors](..) > [Exceptions](.) > [java.lang.NoSuchMethodError](javalangnosuchmethoderror)
 
 
 If you get an error like

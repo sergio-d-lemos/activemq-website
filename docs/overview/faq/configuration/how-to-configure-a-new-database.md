@@ -2,7 +2,7 @@
 title: "How to configure a new database"
 ---
 
- [FAQ](faq) > [Configuration](configuration) > [How to configure a new database](how-to-configure-a-new-database)
+ [FAQ](..) > [Configuration](.) > [How to configure a new database](how-to-configure-a-new-database)
 
 
 ActiveMQ Classic explicity supports Derby, Axion, HSQL, Oracle, and SQLServer. Below are the steps on how to configure a new database.

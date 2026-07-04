@@ -2,7 +2,7 @@
 title: "Multicast - Watch out for IPV6 vs IPV4 support on your operating system or distribution or network"
 ---
 
- [FAQ](faq) > [Errors](errors) > [Multicast - Watch out for IPV6 vs IPV4 support on your operating system or distribution or network](multicast-watch-out-for-ipv6-vs-ipv4-support-on-your-operating-system-or-distribution-or-network)
+ [FAQ](..) > [Errors](.) > [Multicast - Watch out for IPV6 vs IPV4 support on your operating system or distribution or network](multicast-watch-out-for-ipv6-vs-ipv4-support-on-your-operating-system-or-distribution-or-network)
 
 
 You may wonder why you are not receiving any message at all during multicast, maybe you have just tried everything, and even on some other OS or distributions and JDK and realize that it works in some place and not on other... you may have tried a small C program to do the same..and it worked well.. you're feeling the pressure on your neck...what could be wrong on YOUR application on THIS OS/distribution...

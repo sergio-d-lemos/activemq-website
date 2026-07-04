@@ -2,7 +2,7 @@
 title: "DR"
 ---
 
- [FAQ](faq) > [Terminology](terminology) > [DR](dr)
+ [FAQ](..) > [Terminology](.) > [DR](dr)
 
 
 Disaster Recovery.

@@ -2,7 +2,7 @@
 title: "How do I change the logging"
 ---
 
- [FAQ](faq) > [Using Apache ActiveMQ Classic](using-apache-activemq-classic) > [How do I change the logging](how-do-i-change-the-logging)
+ [FAQ](..) > [Using Apache ActiveMQ Classic](.) > [How do I change the logging](how-do-i-change-the-logging)
 
 
 How do I change the logging

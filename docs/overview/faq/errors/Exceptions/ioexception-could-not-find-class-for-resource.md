@@ -2,7 +2,7 @@
 title: "IOException - could not find class for resource"
 ---
 
- [FAQ](faq) > [Errors](errors) > [Exceptions](exceptions) > [IOException - could not find class for resource](ioexception-could-not-find-class-for-reDevelopers/source)
+ [FAQ](../..) > [Errors](..) > [Exceptions](.) > [IOException - could not find class for resource](../../../../legacy-documentation/source)
 
 
 If you get an exception looking like this

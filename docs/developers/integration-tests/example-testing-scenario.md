@@ -6,7 +6,7 @@ title: "Example Testing Scenario"
 ActiveMQ Classic Performance Module
 ---------------------------
 
-*   [Users Manual](activemq-classic-performance-module-users-manual)
+*   [Users Manual](../../features/performance/activemq-classic-performance-module-users-manual)
 
 Example Testing Scenario
 ------------------------

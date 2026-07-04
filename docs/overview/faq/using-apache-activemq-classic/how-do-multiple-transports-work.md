@@ -2,7 +2,7 @@
 title: "How do multiple transports work"
 ---
 
- [FAQ](faq) > [Using Apache ActiveMQ Classic](using-apache-activemq-classic) > [How do multiple transports work](how-do-multiple-transports-work)
+ [FAQ](..) > [Using Apache ActiveMQ Classic](.) > [How do multiple transports work](how-do-multiple-transports-work)
 
 
 ### For ActiveMQ Classic 3.x/4.x

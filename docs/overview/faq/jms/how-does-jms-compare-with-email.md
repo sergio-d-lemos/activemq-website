@@ -2,7 +2,7 @@
 title: "How does JMS compare with email"
 ---
 
- [FAQ](faq) > [JMS](jms) > [How does JMS compare with email](how-does-jms-compare-with-email)
+ [FAQ](..) > [JMS](.) > [How does JMS compare with email](how-does-jms-compare-with-email)
 
 
 Certainly they both do similar things. The main difference between them is their history and design criteria.

@@ -2,7 +2,7 @@
 title: "How should I use the VM transport"
 ---
 
- [FAQ](faq) > [Using Apache ActiveMQ Classic](using-apache-activemq-classic) > [How should I use the VM transport](how-should-i-use-the-vm-transport)
+ [FAQ](..) > [Using Apache ActiveMQ Classic](.) > [How should I use the VM transport](how-should-i-use-the-vm-transport)
 
 
 ### For ActiveMQ Classic 3.x/4.x

@@ -10,12 +10,12 @@ ActiveMQ Classic comes bundled with [Jolokia](http://www.jolokia.org/) which pro
 
 In ActiveMQ Classic you can monitor the broker to see what destinations are being used, their activity along with connections and subscriptions using the following tools
 
-*   [JMX](jmx) and a JMX console such as [jConsole](http://java.sun.com/developer/technicalArticles/J2SE/jconsole.html)
-*   The [Web Console](web-console)
-*   the [Advisory Message](advisory-message) feature (using JMS messages to monitor the system)
-*   The [Command Agent](command-agent); ActiveMQ.Agent topic that you query for status
-*   The [Visualisation](visualisation) plug-in
-*   The [Statistics](statisticsplugin) plug-in
+*   [JMX](../../../features/jmx) and a JMX console such as [jConsole](http://java.sun.com/developer/technicalArticles/J2SE/jconsole.html)
+*   The [Web Console](../../../tools/web-console)
+*   the [Advisory Message](../../../features/message-features/advisory-message) feature (using JMS messages to monitor the system)
+*   The [Command Agent](../../../features/command-agent); ActiveMQ.Agent topic that you query for status
+*   The [Visualisation](../../../features/visualisation) plug-in
+*   The [Statistics](../../../features/interceptors/statisticsplugin) plug-in
 
 ### Third Party Tools
 

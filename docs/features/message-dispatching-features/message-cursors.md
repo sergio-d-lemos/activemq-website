@@ -6,7 +6,7 @@ title: "Message Cursors"
 Message Cursors
 ---------------
 
-A common problem in previous versions of ActiveMQ Classic was [running out of RAM buffer](my-producer-blocks) when using non-persistent messaging.
+A common problem in previous versions of ActiveMQ Classic was [running out of RAM buffer](../../overview/faq/errors/my-producer-blocks) when using non-persistent messaging.
 
 Beginning with ActiveMQ Classic 5.0.0, there is a new memory model that allows messages to be paged in from storage when space is available (using Store cursors for persistent messages).
 

@@ -2,7 +2,7 @@
 title: "What is the license"
 ---
 
- [FAQ](faq) > [General](general) > [What is the license](what-is-the-license)
+ [FAQ](..) > [General](.) > [What is the license](what-is-the-license)
 
 
 What is the license?

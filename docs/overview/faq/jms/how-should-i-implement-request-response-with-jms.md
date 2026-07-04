@@ -2,7 +2,7 @@
 title: "How should I implement request response with JMS"
 ---
 
- [FAQ](faq) > [JMS](jms) > [How should I implement request response with JMS](how-should-i-implement-request-response-with-jms)
+ [FAQ](..) > [JMS](.) > [How should I implement request response with JMS](how-should-i-implement-request-response-with-jms)
 
 
 How should I implement request response with JMS?

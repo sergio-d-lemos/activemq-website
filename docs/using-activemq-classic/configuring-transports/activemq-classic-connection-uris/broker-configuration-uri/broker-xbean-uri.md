@@ -6,7 +6,7 @@ title: "Broker XBean URI"
 Broker XBean URI
 ----------------
 
-The Broker XBean URI allows you to [run a configured broker](run-broker) by referencing an [Xml Configuration](xml-configuration) on the classpath. The URI points to an XML document which can be parsed via XBean or Spring. This URI is typically on the classpath; though in 4.2 onwards you can point to a file or URL as well.
+The Broker XBean URI allows you to [run a configured broker](../../../run-broker) by referencing an [Xml Configuration](../../../xml-configuration) on the classpath. The URI points to an XML document which can be parsed via XBean or Spring. This URI is typically on the classpath; though in 4.2 onwards you can point to a file or URL as well.
 
 #### Syntax
 

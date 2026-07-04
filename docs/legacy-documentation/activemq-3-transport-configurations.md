@@ -32,7 +32,7 @@ noDelay|false|boolean
 
 #### brokerXmlConfig
 
-Sets the [Xml Configuration](xml-configuration) file used to configure the ActiveMQ Classic broker via Spring if using embedded mode. The filename is assumed to be on the classpath unless a URL is specified. So a value of
+Sets the [Xml Configuration](../using-activemq-classic/xml-configuration) file used to configure the ActiveMQ Classic broker via Spring if using embedded mode. The filename is assumed to be on the classpath unless a URL is specified. So a value of
 
 
 ```
@@ -124,7 +124,7 @@ Used to indicate whether messages are dispatched as quickly as possible or not. 
 
 ### SSL configuration options
 
-Same as TCP. SSL certificates are configured at the VM level. See [How do I use SSL](how-do-i-use-ssl)
+Same as TCP. SSL certificates are configured at the VM level. See [How do I use SSL](../overview/faq/using-apache-activemq-classic/how-do-i-use-ssl)
 
 ### List configuration options
 

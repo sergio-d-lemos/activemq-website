@@ -14,8 +14,8 @@ We support a range of SQL databases for message persistence such as
 *   MySQL
 *   Oracle
 *   Postgresql
-*   [SQLServer](Persistence/JDBC Support/sqlserver)
-*   [Sybase](Persistence/JDBC Support/sybase)
+*   [SQLServer](sqlserver)
+*   [Sybase](sybase)
 
 as well as a number of generic JDBC providers.
 

@@ -83,7 +83,7 @@ mvn activemq:run
 
 Name|Default|Description
 ---|---|---
-configUri|broker:(tcp://localhost:61616)?useJmx=false&persistent=false|The broker configuration URI that will be use to startup the broker. For more information, refer [here](how-do-i-embed-a-broker-inside-a-connection)  
+configUri|broker:(tcp://localhost:61616)?useJmx=false&persistent=false|The broker configuration URI that will be use to startup the broker. For more information, refer [here](../overview/faq/using-apache-activemq-classic/how-do-i-embed-a-broker-inside-a-connection)  
 fork|false|If true, start up the broker in a separate thread, enabling maven to continue processing (Useful for integration testing).  
 systemProperties|none|Additional system properties that will be set.  
 

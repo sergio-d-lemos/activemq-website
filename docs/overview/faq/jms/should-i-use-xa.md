@@ -2,7 +2,7 @@
 title: "Should I use XA"
 ---
 
- [FAQ](faq) > [JMS](jms) > [Should I use XA](should-i-use-xa)
+ [FAQ](..) > [JMS](.) > [Should I use XA](should-i-use-xa)
 
 
 Should I use XA transactions (two phase commit?)
@@ -22,7 +22,7 @@ ActiveMQ Classic does not currently support XA Transaction suspend / resume sema
 
 So a good optimisation is to use regular JMS transactions - with no XA - and just perform some duplicate message detection in your code to check you have not already processed the message.
 
-For example you can use an [Idempotent Consumer](http://activemq.apache.org/camel/idempotent-consumer.html) from the [Enterprise Integration Patterns](enterprise-integration-patterns) to solve this scenario.
+For example you can use an [Idempotent Consumer](http://activemq.apache.org/camel/idempotent-consumer.html) from the [Enterprise Integration Patterns](../../../features/enterprise-integration-patterns) to solve this scenario.
 
 Or in pseudocode you could use something like the following...
 ```

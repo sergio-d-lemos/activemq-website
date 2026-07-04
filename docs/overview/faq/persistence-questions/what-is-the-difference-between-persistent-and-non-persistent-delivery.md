@@ -2,7 +2,7 @@
 title: "What is the difference between persistent and non-persistent delivery?"
 ---
 
- [FAQ](faq) > [Persistence Questions](persistence-questions) > [What is the difference between persistent and non-persistent delivery](what-is-the-difference-between-persistent-and-non-persistent-delivery)
+ [FAQ](..) > [Persistence Questions](.) > [What is the difference between persistent and non-persistent delivery](what-is-the-difference-between-persistent-and-non-persistent-delivery)
 
 What is the difference between persistent and non-persistent delivery?
 ----------------------------------------------------------------------
@@ -11,10 +11,10 @@ ActiveMQ Classic supports both persistent and non-persistent delivery. As per th
 
 The main difference is that if you are using persistent delivery, messages are persisted to disk/database so that they will survive a broker restart. When using non-persistent delivery, if you kill a broker then you will lose all in-transit messages.
 
-The effect of this difference is that persistent messaging is usually slower than non-persistent delivery, particularly when not using [Async Sends](async-sends).
+The effect of this difference is that persistent messaging is usually slower than non-persistent delivery, particularly when not using [Async Sends](../../../features/message-dispatching-features/async-sends).
 
 ### See also
 
-*   [Async Sends](async-sends)
-*   [How do I disable persistence](how-do-i-disable-persistence)
+*   [Async Sends](../../../features/message-dispatching-features/async-sends)
+*   [How do I disable persistence](../configuration/how-do-i-disable-persistence)
 

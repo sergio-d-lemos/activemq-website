@@ -6,9 +6,9 @@ title: "Integrating Apache ActiveMQ Classic with JBoss"
 Integrating Apache ActiveMQ Classic with JBoss
 ======================================
 
-Integration with application servers is a common scenario in the enterprise Java world, especially when it comes to messaging. ActiveMQ Classic is a JMS 1.1 compliant, open source, Apache Licensed, message oriented middleware (MOM) with [many](changes-in-40), [many](new-features-in-41) features far beyond the JMS specification. ActiveMQ Classic offers many different [points of connectivity](connectivity), many [cross language clients](cross-language-clients) and many [pluggable transport protocols](protocols) including integration with any J2EE 1.4 application server.
+Integration with application servers is a common scenario in the enterprise Java world, especially when it comes to messaging. ActiveMQ Classic is a JMS 1.1 compliant, open source, Apache Licensed, message oriented middleware (MOM) with [many](../../../overview/new-features/changes-in-40), [many](../../../overview/new-features/new-features-in-41) features far beyond the JMS specification. ActiveMQ Classic offers many different [points of connectivity](../..), many [cross language clients](../../cross-language-clients) and many [pluggable transport protocols](../../protocols) including integration with any J2EE 1.4 application server.
 
-One of the application servers in the open source world is JBoss. A very common requirement is to configure ActiveMQ Classic as the messaging infrastructure within JBoss. Although there is [a bit of documentation](jboss-integration) on this integration, this article seeks to provide much more detail and explanation. So if you have a need to integrate ActiveMQ Classic with JBoss, this article is for you.
+One of the application servers in the open source world is JBoss. A very common requirement is to configure ActiveMQ Classic as the messaging infrastructure within JBoss. Although there is [a bit of documentation](index) on this integration, this article seeks to provide much more detail and explanation. So if you have a need to integrate ActiveMQ Classic with JBoss, this article is for you.
 
 This article explains how to configure JBoss to start up ActiveMQ Classic as part of its lifecycle and how to configure the ActiveMQ Classic resource adapter to handle the messaging and transactionality between ActiveMQ Classic and JBoss.
 
@@ -17,7 +17,7 @@ Requirements
 
 Below are the software requirements for this article with links to download each:
 
-*   [Apache ActiveMQ Classic 4.0.1+](download)
+*   [Apache ActiveMQ Classic 4.0.1+](../../../overview/download)
 *   [JBoss 4.0.4+](http://sourceforge.net/project/showfiles.php?group_id=22866&package_id=16942&release_id=416591)
 *   [Sun Java 1.5+](http://www.java.com/en/download/index.jsp)
 *   [Apache Ant 1.6+](http://ant.apache.org/bindownload.cgi)
@@ -329,9 +329,9 @@ The `<persistenceAdapter>` element should be reconfigured to store its data in a
 ```
 Now, modify the `dataDirectory` attribute of the `journaledJDBC` element to be the following: ``${jboss.server.data.dir}`/activemq`.
 
-The `<transportConnectors>` element is used to advertise the ActiveMQ Classic broker for client-to-broker communications and the `<networkConnectors>` element advertises the ActiveMQ Classic broker for broker-to-broker communications. The default configuration is to use the ActiveMQ Classic [multicast transport](multicast-transport-reference) for both. This is simply an easy configuration under which to get ActiveMQ Classic up and running, so we'll just leave it at that for the time being.
+The `<transportConnectors>` element is used to advertise the ActiveMQ Classic broker for client-to-broker communications and the `<networkConnectors>` element advertises the ActiveMQ Classic broker for broker-to-broker communications. The default configuration is to use the ActiveMQ Classic [multicast transport](../../../using-activemq-classic/configuring-transports/activemq-classic-connection-uris/multicast-transport-reference) for both. This is simply an easy configuration under which to get ActiveMQ Classic up and running, so we'll just leave it at that for the time being.
 
-`_NOTE:_** There are far more configuration options available for ActiveMQ Classic than are noted here. The configuration above is only enough to just get ActiveMQ Classic up and running, nothing more. For more information on the ActiveMQ Classic configuration, see the [ActiveMQ Classic 4.1 XML Reference](xbean-xml-reference-41).
+`_NOTE:_** There are far more configuration options available for ActiveMQ Classic than are noted here. The configuration above is only enough to just get ActiveMQ Classic up and running, nothing more. For more information on the ActiveMQ Classic configuration, see the [ActiveMQ Classic 4.1 XML Reference](../../../using-activemq-classic/xml-reference/xbean-xml-reference-41).
 
 Now we just need to start up JBoss to assure that it comes up correctly without error using the same commands we used previously to start JBoss:
 ```
@@ -694,9 +694,9 @@ What has been demonstrated here is the integration of ActiveMQ Classic with the 
 Below are the configurations for use with both Spring 1.x and Spring 2.x:
   
 
-[File](integrating-apache-activemq-classic-with-jboss.md?sortBy=name&sortOrder=ascending)
+[File](../integrating-apache-activemq-classic-with-jboss)
 
-[Modified](integrating-apache-activemq-classic-with-jboss.md?sortBy=date&sortOrder=descending)
+[Modified](../integrating-apache-activemq-classic-with-jboss)
 
 File [amq-spring-1.2.6.tgz](integrating-apache-activemq-classic-with-jboss.data/amq-spring-1.2.6.tgz?api=v2 "Download")
 

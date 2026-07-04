@@ -10,7 +10,7 @@ New Features in 5.3
 
 The new features and enhancements in this release include:
 
-*   New [KahaDB](Persistence/kahadb) persistent storage
+*   New [KahaDB](../../kahadb) persistent storage
 *   [Camel 2.0.0](http://camel.apache.org) along with its web console
 *   stomp over SSL and NIO support
 *   Improved configuration - default one production oriented and a lot of use case configuration examples (like scalability and throughput)

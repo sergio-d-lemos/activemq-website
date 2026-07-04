@@ -2,7 +2,7 @@
 title: "How do I find the Size of a Queue"
 ---
 
- [FAQ](faq) > [Using Apache ActiveMQ Classic](using-apache-activemq-classic) > [How do I find the Size of a Queue](how-do-i-find-the-size-of-a-queue)
+ [FAQ](..) > [Using Apache ActiveMQ Classic](.) > [How do I find the Size of a Queue](how-do-i-find-the-size-of-a-queue)
 
 
 How do I check on the size of the queue? I know it's not JMS standard, but most JMS implementations have a way to do this.

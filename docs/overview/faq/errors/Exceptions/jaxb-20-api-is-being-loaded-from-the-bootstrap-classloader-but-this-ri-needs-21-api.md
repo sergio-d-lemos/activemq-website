@@ -2,7 +2,7 @@
 title: "JAXB 2.0 API is being loaded from the bootstrap classloader, but this RI () needs 2.1 API."
 ---
 
- [FAQ](faq) > [Errors](errors) > [Exceptions](exceptions) > [JAXB 2.0 API is being loaded from the bootstrap classloader, but this RI () needs 2.1 API.](jaxb-20-api-is-being-loaded-from-the-bootstrap-classloader-but-this-ri-needs-21-api)
+ [FAQ](../..) > [Errors](..) > [Exceptions](.) > [JAXB 2.0 API is being loaded from the bootstrap classloader, but this RI () needs 2.1 API.](jaxb-20-api-is-being-loaded-from-the-bootstrap-classloader-but-this-ri-needs-21-api)
 
 
 When using JDK 6 (up to JDK 6 Update 3) to run ActiveMQ Classic you can run into this exception. There are two solutions to this:

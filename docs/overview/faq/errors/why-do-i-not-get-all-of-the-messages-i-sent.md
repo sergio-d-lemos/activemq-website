@@ -2,7 +2,7 @@
 title: "Why do I not get all of the messages I sent"
 ---
 
- [FAQ](faq) > [Errors](errors) > [Why do I not get all of the messages I sent](why-do-i-not-get-all-of-the-messages-i-sent)
+ [FAQ](..) > [Errors](.) > [Why do I not get all of the messages I sent](why-do-i-not-get-all-of-the-messages-i-sent)
 
 
 ### **For ActiveMQ Classic 3.x/4.x**

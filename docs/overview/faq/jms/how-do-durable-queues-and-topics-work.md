@@ -2,7 +2,7 @@
 title: "How do durable queues and topics work"
 ---
 
- [FAQ](faq) > [JMS](jms) > [How do durable queues and topics work](how-do-durable-queues-and-topics-work)
+ [FAQ](..) > [JMS](.) > [How do durable queues and topics work](how-do-durable-queues-and-topics-work)
 
 
 Durable queues keep messages around persistently for any suitable consumer to consume them. Durable queues do not need to concern themselves with which consumer is going to consume the messages at some point in the future. There is just one copy of a message that any consumer in the future can consume.
@@ -17,5 +17,5 @@ This is the difference between durable and non-durable consuming. If S were a no
 
 So for durable topic subscription, the JMS provider needs to be able to identify S when it shuts down and later on in the future reconnects, so it can know what messages to send to it while it was not running. JMS specification dictates that the identification of S is done by a combination of the clientID and the durable subscriber name. This is so that the JMS connection S uses can have many different durable subscriptions on different topics or on the same topic with different selectors - yet the JMS provider can know which message for which subscription to keep around for it.
 
-So setting the clientID on a JMS connection is vital (along with using a sensible durable consumer name) for durable topic subscription. Its not an issue for other [QoS](qos)
+So setting the clientID on a JMS connection is vital (along with using a sensible durable consumer name) for durable topic subscription. Its not an issue for other [QoS](../terminology/qos)
 

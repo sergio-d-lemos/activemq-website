@@ -5,7 +5,7 @@ title: "Protocols"
 
 Apache ActiveMQ Classic is a message broker which supports multiple wire level protocols for maximum interoperability.
 
-*   [AMQP](amqp)
+*   [AMQP](../../amqp)
 *   [AUTO](auto)
 *   [MQTT](mqtt)
 *   [OpenWire](openwire)

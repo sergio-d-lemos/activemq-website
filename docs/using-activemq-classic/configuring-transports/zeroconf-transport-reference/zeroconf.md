@@ -13,8 +13,8 @@ Support for [ZeroConf](zeroconf) is **deprecated** and scheduled to be removed f
 We use the [jmDNS](http://jmdns.sf.net/) project to implement the Zeroconf specification to detect services. This means other Zeroconf  
 based tools can be used in conjunction with this discovery agent.
 
-You can use ZeroConf with ActiveMQ Classic's [Discovery](discovery) mechanism. For more details see
+You can use ZeroConf with ActiveMQ Classic's [Discovery](../../../features/discovery) mechanism. For more details see
 
-*   [Discovery](discovery)
-*   [ZeroConf Transport Reference](zeroconf-transport-reference)
+*   [Discovery](../../../features/discovery)
+*   [ZeroConf Transport Reference](index)
 

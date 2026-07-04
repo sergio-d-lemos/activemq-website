@@ -2,7 +2,7 @@
 title: "How do I unack the message with Stomp"
 ---
 
- [FAQ](faq) > [Using Apache ActiveMQ Classic](using-apache-activemq-classic) > [How do I unack the message with Stomp](how-do-i-unack-the-message-with-stomp)
+ [FAQ](..) > [Using Apache ActiveMQ Classic](.) > [How do I unack the message with Stomp](how-do-i-unack-the-message-with-stomp)
 
 
 There is no explicit "unack" command in Stomp. Once the client receives the message it cannot be marked as "unconsumed" and sent to another subscriber (or redelivered to the same subscriber again). It's up to your application (or Stomp client) to handle failed processing of received messages and implement "message redelivery".
@@ -54,5 +54,5 @@ Since the transaction `tx1` has been aborted, we needed to acknowledge that mess
 Also take a look at these pages for more info:
 
 *   [http://activemq.apache.org/stomp/stomp10/additional.html#transaction_handling](http://activemq.apache.org/stomp/stomp10/additional.html#transaction_handling)
-*   [what-is-the-prefetch-limit-for](what-is-the-prefetch-limit-for)
+*   [what-is-the-prefetch-limit-for](../../../features/what-is-the-prefetch-limit-for)
 

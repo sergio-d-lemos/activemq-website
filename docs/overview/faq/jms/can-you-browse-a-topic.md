@@ -2,7 +2,7 @@
 title: "Can you browse a topic"
 ---
 
- [FAQ](faq) > [JMS](jms) > [Can you browse a topic](can-you-browse-a-topic)
+ [FAQ](..) > [JMS](.) > [Can you browse a topic](can-you-browse-a-topic)
 
 
 You can browse queues, can you browse a topic?

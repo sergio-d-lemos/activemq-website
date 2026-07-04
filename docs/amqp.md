@@ -16,11 +16,11 @@ To enable AMQP protocol support on the broker add the following transport connec
    <transportConnector name="amqp" uri="amqp://0.0.0.0:5672"/>
 </transportConnectors>
 ```
-It is enabled in the default ActiveMQ Classic server configuration. For more help see [Run Broker](run-broker).
+It is enabled in the default ActiveMQ Classic server configuration. For more help see [Run Broker](using-activemq-classic/run-broker).
 
 ### Security
 
-The AMQP implementation fully supports an [ActiveMQ Classic security](security) mechanism. This allows the broker to accept plain SASL authentication. Authorization policies are applied to a destination when it's accessed (read/write).
+The AMQP implementation fully supports an [ActiveMQ Classic security](features/security) mechanism. This allows the broker to accept plain SASL authentication. Authorization policies are applied to a destination when it's accessed (read/write).
 
 > **SSL**
 > 
@@ -34,7 +34,7 @@ Example:
 ```
 <transportConnector name="amqp+nio" uri="amqp+nio://localhost:5672"/>
 ```
-This transport uses the [NIO transport](configuring-transports#TheNIOTransport) underneath and will generally use much less threads than the standard connector. This connector can help if you want to use [large number of queues](how-do-i-configure-10s-of-1000s-of-queues-in-a-single-broker)
+This transport uses the [NIO transport](using-activemq-classic/configuring-transports#TheNIOTransport) underneath and will generally use much less threads than the standard connector. This connector can help if you want to use [large number of queues](overview/faq/configuration/how-do-i-configure-10s-of-1000s-of-queues-in-a-single-broker)
 
 ### Enabling AMQP over SSL
 
@@ -44,7 +44,7 @@ Example:
 ```
 <transportConnector name="amqp+ssl" uri="amqp+ssl://localhost:5671"/>
 ```
-For more details on using SSL with ActiveMQ Classic, see the following article ([How do I use SSL](how-do-i-use-ssl)).
+For more details on using SSL with ActiveMQ Classic, see the following article ([How do I use SSL](overview/faq/using-apache-activemq-classic/how-do-i-use-ssl)).
 
 ### Working with Destinations with AMQP
 
@@ -52,7 +52,7 @@ You should prefix destination address with `queue://` to use queue based destin
 
 ### Prefetch Size and Credit
 
-When AMQP receiver connects to the broker it's mapped to the JMS consumer. This JMS consumer has to have appropriate [prefetch size](what-is-the-prefetch-limit-for) set. The broker will honor the credit set by the client or use the default value of `1000` if client doesn't set it.
+When AMQP receiver connects to the broker it's mapped to the JMS consumer. This JMS consumer has to have appropriate [prefetch size](features/what-is-the-prefetch-limit-for) set. The broker will honor the credit set by the client or use the default value of `1000` if client doesn't set it.
 
 Example: tuning the default `prefetch` size:
 ```

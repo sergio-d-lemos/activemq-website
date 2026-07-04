@@ -3,7 +3,7 @@ title: "Cross Language Clients"
 ---
 
 
-Apache ActiveMQ Classic is a message broker written in Java with JMS, [REST](rest) and [WebSocket](websockets) interfaces, however it supports protocols like [AMQP](amqp), [MQTT](mqtt), [OpenWire](openwire) and [STOMP](stomp) that can be used by applications in different languages.
+Apache ActiveMQ Classic is a message broker written in Java with JMS, [REST](../protocols/rest) and [WebSocket](../websockets) interfaces, however it supports protocols like [AMQP](../../amqp), [MQTT](../protocols/mqtt), [OpenWire](../protocols/openwire) and [STOMP](../protocols/stomp) that can be used by applications in different languages.
 
 Libraries
 ---------

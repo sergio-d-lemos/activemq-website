@@ -2,7 +2,7 @@
 title: "How can I add a new type of transport"
 ---
 
- [FAQ](faq) > [Developing ActiveMQ Classic](developing-activemq) > [How can I add a new type of transport](how-can-i-add-a-new-type-of-transport)
+ [FAQ](..) > [Developing ActiveMQ Classic](.) > [How can I add a new type of transport](how-can-i-add-a-new-type-of-transport)
 
 
 ActiveMQ Classic is specifically designed to allow custom transports to be plugged in. You can programatically create TransportConnector instances and add them to the BrokerService in Java code using the [BrokerService.addConnector() method](http://activemq.codehaus.org/maven/apidocs/org/apache/activemq/broker/BrokerService.html#addConnector(org.apache.activemq.broker.TransportConnector))

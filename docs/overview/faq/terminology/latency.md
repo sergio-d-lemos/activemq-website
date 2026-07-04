@@ -2,7 +2,7 @@
 title: "Latency"
 ---
 
- [FAQ](faq) > [Terminology](terminology) > [Latency](latency)
+ [FAQ](..) > [Terminology](.) > [Latency](latency)
 
 
 Latency

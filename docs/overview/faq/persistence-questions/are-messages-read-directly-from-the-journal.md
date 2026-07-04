@@ -2,7 +2,7 @@
 title: "Are messages read directly from the journal"
 ---
 
- [FAQ](faq) > [Persistence Questions](persistence-questions) > [Are messages read directly from the journal](are-messages-read-directly-from-the-journal)
+ [FAQ](..) > [Persistence Questions](.) > [Are messages read directly from the journal](are-messages-read-directly-from-the-journal)
 
 
 Kind of. A message can be loaded directly from the journal if it was swapped out of memory.

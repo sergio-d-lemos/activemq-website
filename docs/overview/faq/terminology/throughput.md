@@ -2,7 +2,7 @@
 title: "Throughput"
 ---
 
- [FAQ](faq) > [Terminology](terminology) > [Throughput](throughput)
+ [FAQ](..) > [Terminology](.) > [Throughput](throughput)
 
 
 How many messages can we process per second.

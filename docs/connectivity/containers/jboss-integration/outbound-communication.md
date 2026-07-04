@@ -55,7 +55,7 @@ This is a standard EJB deployment descriptor, nothing special.
 
 ### The Connector
 
-The `resource-ref` element [shown above](JBoss Integration/outbound-communication), will be linked to the following element in the [ra.xml](http://activemq.codehaus.org/checkout/activemq/modules/ra/src/rar/META-INF/ra.xml) file, which is contained within the [activemq-ra-1.2.rar](jboss-integration) file:  
+The `resource-ref` element [shown above](outbound-communication), will be linked to the following element in the [ra.xml](http://activemq.codehaus.org/checkout/activemq/modules/ra/src/rar/META-INF/ra.xml) file, which is contained within the [activemq-ra-1.2.rar](index) file:  
 
 **ra.xml – The QueueConnectionFactory**
 ```
@@ -71,7 +71,7 @@ The `resource-ref` element [shown above](JBoss Integration/outbound-communicatio
    ...
 </outbound-resourceadapter>
 ```
-The `message-destination` element [shown above](JBoss Integration/outbound-communication), will be linked to the following element in the [ra.xml](http://activemq.codehaus.org/checkout/activemq/modules/ra/src/rar/META-INF/ra.xml) file:  
+The `message-destination` element [shown above](outbound-communication), will be linked to the following element in the [ra.xml](http://activemq.codehaus.org/checkout/activemq/modules/ra/src/rar/META-INF/ra.xml) file:  
 
 **ra.xml – The Queue**
 ```
@@ -90,11 +90,11 @@ The `message-destination` element [shown above](JBoss Integration/outbound-commu
 In JBoss, connecting the resources needed by the [ejb-jar.xml](outbound-communication.data/ejb-jar.xml?version=3&modificationDate=1117021488000&api=v2) file to resources provided by the [ra.xml](http://activemq.codehaus.org/checkout/activemq/modules/ra/src/rar/META-INF/ra.xml) file involves two additional files:
 
 1.  **[panacya-jms-ds.xml](outbound-communication.data/panacya-jms-ds.xml?version=5&modificationDate=1117021448000&api=v2)** - This is a JBoss data source file. It specifies which connector objects JBoss should instantiate and where in JNDI JBoss should place those objects.
-2.  **[jboss.xml](outbound-communication.data/jboss.xml?version=3&modificationDate=1117021488000&api=v2)** - This is a JBoss deployment descriptor which is contained within the [panacya-mdb-test-1.0.jar](jboss-integration) file. It links resources needed by the EJBs to the JNDI names of resources available in JBoss.
+2.  **[jboss.xml](outbound-communication.data/jboss.xml?version=3&modificationDate=1117021488000&api=v2)** - This is a JBoss deployment descriptor which is contained within the [panacya-mdb-test-1.0.jar](index) file. It links resources needed by the EJBs to the JNDI names of resources available in JBoss.
 
 ##### [panacya-jms-ds.xml](outbound-communication.data/panacya-jms-ds.xml?version=5&modificationDate=1117021448000&api=v2) – _The JBoss Data Source File_
 
-This first snippet configures the `QueueConnectionFactory`, [declared above](JBoss Integration/outbound-communication), and places it in JNDI at `activemq/QueueConnectionFactory`:  
+This first snippet configures the `QueueConnectionFactory`, [declared above](outbound-communication), and places it in JNDI at `activemq/QueueConnectionFactory`:  
 
 **panacya-jms-ds.xml – The QueueConnectionFactory**
 ```
@@ -106,7 +106,7 @@ This first snippet configures the `QueueConnectionFactory`, [declared above](JBo
    <security-domain-and-application>JmsXARealm</security-domain-and-application>
 </tx-connection-factory>
 ```
-This second snippet configures the `Queue`, [declared above](JBoss Integration/outbound-communication), and places it in JNDI at `activemq/queue/outbound`:  
+This second snippet configures the `Queue`, [declared above](outbound-communication), and places it in JNDI at `activemq/queue/outbound`:  
 
 **panacya-jms-ds.xml – The Queue**
 ```
@@ -123,7 +123,7 @@ In the [panacya-jms-ds.xml](outbound-communication.data/panacya-jms-ds.xml?versi
 
 ##### [jboss.xml](outbound-communication.data/jboss.xml?version=3&modificationDate=1117021488000&api=v2) – _The JBoss Deployment Descriptor_
 
-This first snippet links the `[jms/MyQueueConnectionFactory](JBoss Integration/outbound-communication)` JNDI name used by the `SenderEJB` to the resource name `queuefactoryref` which is local to the [jboss.xml](outbound-communication.data/jboss.xml?version=3&modificationDate=1117021488000&api=v2) file:  
+This first snippet links the `[jms/MyQueueConnectionFactory](outbound-communication)` JNDI name used by the `SenderEJB` to the resource name `queuefactoryref` which is local to the [jboss.xml](outbound-communication.data/jboss.xml?version=3&modificationDate=1117021488000&api=v2) file:  
 
 **jboss.xml – The QueueConnectionFactory for the SenderEJB**
 ```
@@ -138,7 +138,7 @@ This first snippet links the `[jms/MyQueueConnectionFactory](JBoss Integration/o
    ...
 </enterprise-beans>
 ```
-This second snippet links the local `queuefactoryref` name to the global JNDI name `java:/activemq/QueueConnectionFactory` which was [declared above](JBoss Integration/outbound-communication):  
+This second snippet links the local `queuefactoryref` name to the global JNDI name `java:/activemq/QueueConnectionFactory` which was [declared above](outbound-communication):  
 
 **jboss.xml – Linking queuefactoryref to the global JNDI namespace**
 ```
@@ -150,7 +150,7 @@ This second snippet links the local `queuefactoryref` name to the global JNDI na
    ...
 </resource-managers>
 ```
-This third snippet links the `LoggingQueue`, which was [declared](JBoss Integration/outbound-communication) in the `assembly-descriptor` section of the [ejb-jar.xml](outbound-communication.data/ejb-jar.xml?version=3&modificationDate=1117021488000&api=v2), to the global JNDI name `activemq/queue/outbound` which was [declared above](JBoss Integration/outbound-communication):  
+This third snippet links the `LoggingQueue`, which was [declared](outbound-communication) in the `assembly-descriptor` section of the [ejb-jar.xml](outbound-communication.data/ejb-jar.xml?version=3&modificationDate=1117021488000&api=v2), to the global JNDI name `activemq/queue/outbound` which was [declared above](outbound-communication):  
 
 **jboss.xml – Linking LoggingQueue to the global JNDI namespace**
 ```

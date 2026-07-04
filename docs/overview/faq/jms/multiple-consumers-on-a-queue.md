@@ -2,7 +2,7 @@
 title: "Multiple consumers on a queue"
 ---
 
- [FAQ](faq) > [JMS](jms) > [Multiple consumers on a queue](multiple-consumers-on-a-queue)
+ [FAQ](..) > [JMS](.) > [Multiple consumers on a queue](multiple-consumers-on-a-queue)
 
 
 If you want to consume concurrently from a queue, then you must use a different session for each consumer.

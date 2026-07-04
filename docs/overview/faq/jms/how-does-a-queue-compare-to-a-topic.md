@@ -2,7 +2,7 @@
 title: "How does a Queue compare to a Topic"
 ---
 
- [FAQ](faq) > [JMS](jms) > [How does a Queue compare to a Topic](how-does-a-queue-compare-to-a-topic)
+ [FAQ](..) > [JMS](.) > [How does a Queue compare to a Topic](how-does-a-queue-compare-to-a-topic)
 
 
 ### Topics

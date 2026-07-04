@@ -11,7 +11,7 @@ New Features in 5.5.0
 *   Upgrade to camel 2.7.0
 *   DLQ processing per durable subscription
 *   New network connector MBeans
-*   [IOExceptionHandler](configurable-ioexception-handling) for JDBC store
+*   [IOExceptionHandler](../../features/persistence/configurable-ioexception-handling) for JDBC store
 *   Added support for [Apache Commons Daemon](http://commons.apache.org/daemon/)
 
 Improvements in 5.5.0

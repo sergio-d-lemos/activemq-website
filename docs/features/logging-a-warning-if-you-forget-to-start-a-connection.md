@@ -10,5 +10,5 @@ A _very_ common gotcha when working with JMS is forgetting to start the JMS conn
 
 To try and help diagnose this mistake and give you an early warning by default ActiveMQ Classic 4.2 detects this and generates a handy warning message telling you to call the [Connection.start() method](http://java.sun.com/j2ee/1.4/docs/api/javax/jms/Connection.html#start()) on the JMS connection.
 
-For more details on [this feature](https://issues.apache.org/activemq/browse/AMQ-1253) see the discussion of the **warnAboutUnstartedConnectionTimeout** property on the [Connection Configuration URI](connection-configuration-uri)
+For more details on [this feature](https://issues.apache.org/activemq/browse/AMQ-1253) see the discussion of the **warnAboutUnstartedConnectionTimeout** property on the [Connection Configuration URI](../using-activemq-classic/configuring-transports/activemq-classic-connection-uris/connection-configuration-uri)
 

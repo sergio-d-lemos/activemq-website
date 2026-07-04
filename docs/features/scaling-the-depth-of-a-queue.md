@@ -9,5 +9,5 @@ However there is a limitation to this approach, no matter how much memory you ha
 
 To get around this limitation, ActiveMQ Classic introduced a paging cache - for all message stores (except the memory store) to get the best of both worlds - great performance and the ability to hold 100s of millions of messages in persistent store. ActiveMQ Classic is **not** limited by memory availability, but by the size of the disk available to hold the persistent messages.
 
-For more information see: [Message Cursors](message-cursors)
+For more information see: [Message Cursors](message-dispatching-features/message-cursors)
 

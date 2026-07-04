@@ -2,7 +2,7 @@
 title: "How can I enable detailed logging"
 ---
 
- [FAQ](faq) > [Configuration](configuration) > [How can I enable detailed logging](how-can-i-enable-detailed-logging)
+ [FAQ](..) > [Configuration](.) > [How can I enable detailed logging](how-can-i-enable-detailed-logging)
 
 
 How can I enable detailed logging

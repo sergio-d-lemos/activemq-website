@@ -8,7 +8,7 @@ This release includes performance improvements, enhancements for observability, 
 
 ### Jakarta 3.1 and JMS 2.0 Support
 
-ActiveMQ Classic 6 supports Jakarta EE namespaces for both client and server. For details on the transition and the status of support for Jakarta Messaging 3.1 and JMS 2.0 API features, see the [Jakarta/JMS 2 transition page](jms2).
+ActiveMQ Classic 6 supports Jakarta EE namespaces for both client and server. For details on the transition and the status of support for Jakarta Messaging 3.1 and JMS 2.0 API features, see the [Jakarta/JMS 2 transition page](../../jms2).
 
 ### Requirements
 

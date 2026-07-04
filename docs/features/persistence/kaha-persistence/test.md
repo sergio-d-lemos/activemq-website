@@ -11,7 +11,7 @@ TEST BLOG![](https://cwiki.apache.org/confluence/images/icons/emoticons/check.gi
 *   [Index](index.html "Index")
 *   [News](news.md "News")
 *   [New Features](new-features.md "New Features")
-*   [Getting Started](getting-started.md) "Getting Started")
+*   [Getting Started](../../../overview/getting-started) "Getting Started")
 *   [FAQ](faq.md "FAQ")
 *   [Articles](articles.md "Articles")
 *   [Books](books.md "Books")

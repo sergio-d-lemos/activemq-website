@@ -9,7 +9,7 @@ There is an updates XML syntax for configuring message brokers - [see here](http
 
 So we decided that using XML would make this configuration much easier. we use [XBean](https://geronimo.apache.org/xbean/) to perform the XML configuration.
 
-For details of the XML see the [Xml Reference](xml-reference)
+For details of the XML see the [Xml Reference](../using-activemq-classic/xml-reference)
 
 Be careful with broker names and URIs
 

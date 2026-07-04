@@ -2,7 +2,7 @@
 title: "How do I use Ivy with ActiveMQ Classic"
 ---
 
- [FAQ](faq) > [Using Apache ActiveMQ Classic](using-apache-activemq-classic) > [How do I use Ivy with ActiveMQ Classic](how-do-i-use-ivy-with-activemq-classic)
+ [FAQ](..) > [Using Apache ActiveMQ Classic](.) > [How do I use Ivy with ActiveMQ Classic](how-do-i-use-ivy-with-activemq-classic)
 
 ```
 <ivyconf>

@@ -2,7 +2,7 @@
 title: "Why do KahaDB log files remain after cleanup"
 ---
 
- [FAQ](faq) > [Errors](errors) > [Why do KahaDB log files remain after cleanup](why-do-kahadb-log-files-remain-after-cleanup)
+ [FAQ](..) > [Errors](.) > [Why do KahaDB log files remain after cleanup](why-do-kahadb-log-files-remain-after-cleanup)
 
 
 Clean-up of un-referenced KahaDB journal log files **`data-<id>.log`** will occur every 30 seconds by default. If a data file is in-use it will not be cleaned up.

@@ -2,7 +2,7 @@
 title: "How does XBean compare to Spring 2"
 ---
 
- [FAQ](faq) > [Configuration](configuration) > [How does XBean compare to Spring 2](how-does-xbean-compare-to-spring-2)
+ [FAQ](..) > [Configuration](.) > [How does XBean compare to Spring 2](how-does-xbean-compare-to-spring-2)
 
 
 Spring 2.0 has introduced the ability to handle custom XML languages inside the spring.xml. This is something we developed [XBean](http://geronimo.apache.org/xbean/) for way back in the Spring 1.x days.

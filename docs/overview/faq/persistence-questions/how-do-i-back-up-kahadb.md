@@ -2,7 +2,7 @@
 title: "How do I back-up KahaDB"
 ---
 
- [FAQ](faq) > [Persistence Questions](persistence-questions) > [How do I back-up KahaDB](how-do-i-back-up-kahadb)
+ [FAQ](..) > [Persistence Questions](.) > [How do I back-up KahaDB](how-do-i-back-up-kahadb)
 
 
 In creating a backup, there may be an issue with the lock file, or with an inuse journal file. The lock file is not important but you would want the latest journal files.

@@ -2,7 +2,7 @@
 title: "How Do Transactions Work"
 ---
 
- [FAQ](faq) > [Using Apache ActiveMQ Classic](using-apache-activemq-classic) > [How Do Transactions Work](how-do-transactions-work)
+ [FAQ](..) > [Using Apache ActiveMQ Classic](.) > [How Do Transactions Work](how-do-transactions-work)
 
 
 There are two levels of transaction support in ActiveMQ Classic:

@@ -5,9 +5,9 @@ title: "Apollo 1.7.1 Management API"
         /\* <![CDATA[ */ table.reference tr th { text-align:left; } tr.even { background-color: #eee; } table.reference tr td { text-align:left; padding: .4em; vertical-align:top; font-size:90%; } table.reference tr td p { margin: 0 0 .5em 0; } td.methods { font-weight:bold; } /* ]]> */  
 
 *   [Apollo 1.7.1](index.html)
-*   [Developers](communitydevelopers)
+*   [Developers](../../developers)
 *   [Community](Community/index.html)
-*   [Download](..OverviewOverview/Overview/download)
+*   [Download](../../overview/download)
 
 Apollo 1.7.1 Management API
 ===========================

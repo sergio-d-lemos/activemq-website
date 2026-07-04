@@ -2,7 +2,7 @@
 title: "How to deal with large number of threads in clients"
 ---
 
- [FAQ](faq) > [Using Apache ActiveMQ Classic](using-apache-activemq-classic) > [How to deal with large number of threads in clients](how-to-deal-with-large-number-of-threads-in-clients)
+ [FAQ](..) > [Using Apache ActiveMQ Classic](.) > [How to deal with large number of threads in clients](how-to-deal-with-large-number-of-threads-in-clients)
 
 
 If you study thread allocation in ActiveMQ Classic clients, you'll notice that by default there is one thread allocated by every session. This basically means that session will use its [ThreadPoolExecutor](http://docs.oracle.com/javase/6/docs/api/java/util/concurrent/ThreadPoolExecutor.html) to execute its tasks. Up until version 5.7 this executor was unbound which could lead to OOM problems in rare case where are a large number of busy sessions in the same JVM could cause uncontrollable spikes in thread creation.

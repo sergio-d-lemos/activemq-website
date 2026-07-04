@@ -2,7 +2,7 @@
 title: "How do I use JMS efficiently"
 ---
 
- [FAQ](faq) > [JMS](jms) > [How do I use JMS efficiently](how-do-i-use-jms-efficiently)
+ [FAQ](..) > [JMS](.) > [How do I use JMS efficiently](how-do-i-use-jms-efficiently)
 
 
 How do I use JMS efficiently?
@@ -36,9 +36,9 @@ Also see
 
 ### Java Connector Architecture
 
-[Java Connector Architecture](http://java.sun.com/j2ee/connector/) supports the pooling of JMS connections, sessions and MessageListeners, parallel message processing, thread pooling and transaction & exception handling, through the use of a JCA [Resource Adapter](resource-adapter).
+[Java Connector Architecture](http://java.sun.com/j2ee/connector/) supports the pooling of JMS connections, sessions and MessageListeners, parallel message processing, thread pooling and transaction & exception handling, through the use of a JCA [Resource Adapter](../../../connectivity/containers/resource-adapter).
 
 All of these benefits are also available through Spring's MessageListenerContiner **except** for the XA transactions. If you need XA support then you must use JCA
 
-Typically JCA is used in a J2EE container via MDBs; though there is a POJO Spring based [JCA Container](jca-container) you can use, which is simple and lightweight and easy to embed inside Tomcat or any J2SE application.
+Typically JCA is used in a J2EE container via MDBs; though there is a POJO Spring based [JCA Container](../../../connectivity/containers/jca-container) you can use, which is simple and lightweight and easy to embed inside Tomcat or any J2SE application.
 

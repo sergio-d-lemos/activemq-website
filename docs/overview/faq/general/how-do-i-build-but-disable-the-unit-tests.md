@@ -2,7 +2,7 @@
 title: "How do I build but disable the unit tests"
 ---
 
- [FAQ](faq) > [General](general) > [How do I build but disable the unit tests](how-do-i-build-but-disable-the-unit-tests)
+ [FAQ](..) > [General](.) > [How do I build but disable the unit tests](how-do-i-build-but-disable-the-unit-tests)
 
 
 How do I build but disable the unit tests

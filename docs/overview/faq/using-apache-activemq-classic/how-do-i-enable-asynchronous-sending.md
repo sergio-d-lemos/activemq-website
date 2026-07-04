@@ -2,7 +2,7 @@
 title: "How do I enable asynchronous sending"
 ---
 
- [FAQ](faq) > [Using Apache ActiveMQ Classic](using-apache-activemq-classic) > [How do I enable asynchronous sending](how-do-i-enable-asynchronous-sending)
+ [FAQ](..) > [Using Apache ActiveMQ Classic](.) > [How do I enable asynchronous sending](how-do-i-enable-asynchronous-sending)
 
 
 The default setting for ActiveMQ Classic is that all persistent messages outside of a transaction are sent to a broker are synchronous. This means that the send method is blocked until the message is received by the broker, its then written to disk - then a response is returned to the client and the send() unblocks with success or throws a JMSException if the send could not complete (e.g. due to a security exception).  In the case of the persistent messages being sent in a transaction, only the commit is synchronous since if the commit succeeds, then it means that all of the sends and acknowledgements in the transaction succeeded.

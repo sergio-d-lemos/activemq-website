@@ -2,7 +2,7 @@
 title: "How do I get started with JMS"
 ---
 
- [FAQ](faq) > [JMS](jms) > [How do I get started with JMS](JMS/how-do-i-get-started-with-Community/FAQ/jms)
+ [FAQ](..) > [JMS](.) > [How do I get started with JMS](.)
 
 
 How do I get started with JMS

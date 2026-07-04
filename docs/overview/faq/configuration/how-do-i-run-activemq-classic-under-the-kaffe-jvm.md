@@ -2,7 +2,7 @@
 title: "How do I run ActiveMQ Classic under the Kaffe JVM"
 ---
 
- [FAQ](faq) > [Configuration](configuration) > [How do I run ActiveMQ Classic under the Kaffe JVM](how-do-i-run-activemq-classic-under-the-kaffe-jvm)
+ [FAQ](..) > [Configuration](.) > [How do I run ActiveMQ Classic under the Kaffe JVM](how-do-i-run-activemq-classic-under-the-kaffe-jvm)
 
 
 ActiveMQ Classic will run under Kaffe with a few adjustments to the default configuration.

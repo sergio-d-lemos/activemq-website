@@ -6,22 +6,22 @@ title: "New Features in 5.4"
 New Features in 5.4.1
 ---------------------
 
-*   [Encrypted passwords](encrypted-passwords)
-*   Added selector support in [Ajax](ajax)
+*   [Encrypted passwords](../../features/security/encrypted-passwords)
+*   Added selector support in [Ajax](../../connectivity/ajax)
 
 New Features in 5.4
 -------------------
 
-*   [Delay and Schedule Message Delivery](delay-and-schedule-message-delivery)
+*   [Delay and Schedule Message Delivery](../../features/delay-and-schedule-message-delivery)
 *   Message Priority
-*   [WebSockets](websockets)
-*   [Better OSGi support](osgi-integration)
-*   Broker side options for updating failover clients automatically of new brokers joining and leaving the cluster - see [Failover Transport Reference](failover-transport-reference)
-*   [Enhanced Shell Script](unix-shell-script) - for starting, stopping and managing the broker in a Unix environment
-*   [Easy way to configure Web Console](web-console)
-*   [Selectors for Ajax and REST consumers](rest)
+*   [WebSockets](../../connectivity/websockets)
+*   [Better OSGi support](../../connectivity/containers/osgi-integration)
+*   Broker side options for updating failover clients automatically of new brokers joining and leaving the cluster - see [Failover Transport Reference](../../using-activemq-classic/configuring-transports/activemq-classic-connection-uris/failover-transport-reference)
+*   [Enhanced Shell Script](../../features/unix/unix-shell-script) - for starting, stopping and managing the broker in a Unix environment
+*   [Easy way to configure Web Console](../../tools/web-console)
+*   [Selectors for Ajax and REST consumers](../../connectivity/protocols/rest)
 *   JaasDualAuthentcationPlugin
-*   [Anonymous users](security)
+*   [Anonymous users](../../features/security)
 *   Ajax Adapters
 *   ... and much more
 

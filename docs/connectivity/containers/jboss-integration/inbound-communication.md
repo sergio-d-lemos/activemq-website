@@ -38,7 +38,7 @@ The `activation-config` element and it's child element, `activation-config-prope
 
 ### The Connector
 
-The two `activation-config-properties` shown above link to the following elements in the [ra.xml](http://activemq.codehaus.org/checkout/activemq/modules/ra/src/rar/META-INF/ra.xml) file, which is contained within the [activemq-ra-1.2.rar](jboss-integration) file:
+The two `activation-config-properties` shown above link to the following elements in the [ra.xml](http://activemq.codehaus.org/checkout/activemq/modules/ra/src/rar/META-INF/ra.xml) file, which is contained within the [activemq-ra-1.2.rar](index) file:
 
 **ra.xml**
 ```
@@ -90,7 +90,7 @@ This second snippet configures a new MDB container which uses the `invoker-proxy
    ...
 </container-configuration>
 ```
-This third snippet links the `TopicDurableMDB` to the [activemq-ra-1.2.rar](jboss-integration) connector and tells JBoss to put instances of `TopicDurableMDB` into the new MDB container declared above:
+This third snippet links the `TopicDurableMDB` to the [activemq-ra-1.2.rar](index) connector and tells JBoss to put instances of `TopicDurableMDB` into the new MDB container declared above:
 
 **jboss.xml – TopicDurableMDB**
 ```

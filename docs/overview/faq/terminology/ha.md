@@ -2,7 +2,7 @@
 title: "HA"
 ---
 
- [FAQ](faq) > [Terminology](terminology) > [HA](ha)
+ [FAQ](..) > [Terminology](.) > [HA](ha)
 
 
 High Availability.

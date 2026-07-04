@@ -13,7 +13,7 @@ This page lists the various containers that Apache ActiveMQ Classic works inside
 *   [J2EE](j2ee)
 *   [JBoss Integration](jboss-integration)
 *   [JCA Container](jca-container)
-*   [JNDI Support](jndi-Community/support)
+*   [JNDI Support](jndi-support)
 *   [Old OSGi Integration](old-osgi-integration)
 *   [OSGi Integration](osgi-integration)
 *   [Resource Adapter](resource-adapter)

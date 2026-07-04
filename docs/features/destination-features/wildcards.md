@@ -46,7 +46,7 @@ Any IBM stock price on any exchange
 
 ### Custom path separator
 
-As of version 5.5.0 we support [plugin](interceptors) that allows clients to use customer path separator. So instead of
+As of version 5.5.0 we support [plugin](../interceptors) that allows clients to use customer path separator. So instead of
 ```
 `FOO.BAR.*`
 ```

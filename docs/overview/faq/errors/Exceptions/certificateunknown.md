@@ -2,7 +2,7 @@
 title: "certificate_unknown"
 ---
 
- [FAQ](faq) > [Errors](errors) > [Exceptions](exceptions) > [certificate_unknown](certificateunknown)
+ [FAQ](../..) > [Errors](..) > [Exceptions](.) > [certificate_unknown](certificateunknown)
 
 
 If you get an error something like this...
@@ -27,5 +27,5 @@ when you are trying to use SSL to connect to ActiveMQ Classic then the "certific
 
 ### Fix
 
-Make sure that you exported the broker's certificate (step 2 in [How do I use SSL](how-do-i-use-ssl)) and imported it on the client into a truststore (step 4). If you did those, did you specify the javax.net.ssl.trustStore system property when you started your client VM?
+Make sure that you exported the broker's certificate (step 2 in [How do I use SSL](../../using-apache-activemq-classic/how-do-i-use-ssl)) and imported it on the client into a truststore (step 4). If you did those, did you specify the javax.net.ssl.trustStore system property when you started your client VM?
 

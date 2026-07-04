@@ -3,7 +3,7 @@ title: "OpenWire C Client"
 ---
 
 
-This is the C library which is based on the [OpenWire](openwire) protocol.
+This is the C library which is based on the [OpenWire](../../protocols/openwire) protocol.
 
 You can browse the code here
 

@@ -2,7 +2,7 @@
 title: "Resource Adapter does not seem to pool connections"
 ---
 
- [FAQ](faq) > [Errors](errors) > [Resource Adapter does not seem to pool connections](resource-adapter-does-not-seem-to-pool-connections)
+ [FAQ](..) > [Errors](.) > [Resource Adapter does not seem to pool connections](resource-adapter-does-not-seem-to-pool-connections)
 
 
 It may seem like the resource adapter when used in an app server like geronimo or jboss is not pooling connections. Looking the the ActiveMQ Classic broker logs, it will show multiple message for each use of a pooled conntion simlilar to:

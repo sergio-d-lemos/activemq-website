@@ -5,9 +5,9 @@ title: "Apollo 1.7.1 OpenWire Protocol Manual"
        
 
 *   [Apollo 1.7.1](index.html)
-*   [Developers](communitydevelopers)
+*   [Developers](../../developers)
 *   [Community](Community/index.html)
-*   [Download](..OverviewOverview/Overview/download)
+*   [Download](../../overview/download)
 
 Apollo 1.7.1 OpenWire Protocol Manual
 =====================================

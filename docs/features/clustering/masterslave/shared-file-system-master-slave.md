@@ -9,7 +9,7 @@ If you have a SAN or shared file system it can be used to provide _high availabi
 
 > Ensure your shared file locks work
 > 
-> Note that the requirements of this failover system are a distributed file system like a SAN for which exclusive file locks work reliably. If you do not have such a thing available then consider using [MasterSlave](masterslave) instead which implements something similar but working on commodity hardware using local file systems which ActiveMQ Classic does the replication.
+> Note that the requirements of this failover system are a distributed file system like a SAN for which exclusive file locks work reliably. If you do not have such a thing available then consider using [MasterSlave](index) instead which implements something similar but working on commodity hardware using local file systems which ActiveMQ Classic does the replication.
 > 
 > > **OCFS2 Warning**
 > > 
@@ -52,7 +52,7 @@ On startup one master grabs an exclusive lock on the broker file directory - all
 
 ![](/img/Startup.png)
 
-Clients should be using the [Failover Transport](failover-transport-reference) to connect to the available brokers. e.g. using a URL something like the following
+Clients should be using the [Failover Transport](../../../using-activemq-classic/configuring-transports/activemq-classic-connection-uris/failover-transport-reference) to connect to the available brokers. e.g. using a URL something like the following
 ```
 failover:(tcp://broker1:61616,tcp://broker2:61616,tcp://broker3:61616)
 ```

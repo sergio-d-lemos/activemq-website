@@ -7,8 +7,8 @@ ActiveMQ Classic has a sophisticated _interceptor stack_ so that you can attach 
 For an example of the kinds of things you can do with interceptors see the following pages
 
 *   [Logging Interceptor](logging-interceptor)
-*   [Security](security)
-*   [Visualisation](visualisation)
+*   [Security](../security)
+*   [Visualisation](../visualisation)
 *   [TimeStamp on the Broker](timestampplugin)
 *   [Get Statistics via Messages](statisticsplugin)
 *   [Destinations Plugin](destinations-plugin)
@@ -122,5 +122,5 @@ public class MyBroker extends BrokerFilter {
     }	
 }
 ```
-For more details see [Developing Plugins](developing-plugins)
+For more details see [Developing Plugins](../../developers/developer-guide/developing-plugins)
 

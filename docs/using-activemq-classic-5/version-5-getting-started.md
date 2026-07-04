@@ -39,7 +39,7 @@ This section of the Getting Started Guide explains how to install binary and sou
 This procedure explains how to download and install the binary distribution on a Windows system.
 
 1.  From a browser, navigate to [activemq.apache.org/](http://activemq.apache.org/).
-2.  Click the [Download](download) link in the navigation pane (the left pane).
+2.  Click the [Download](../overview/download) link in the navigation pane (the left pane).
 3.  Select the latest distribution (for older releases, click the link to the archives).  
     For a binary distribution, the filename will be similar to: `activemq-x.x.x.zip`.
 4.  Extract the files from the ZIP file into a directory of your choice.
@@ -53,7 +53,7 @@ This procedure explains how to download and install the source distribution on a
 **NOTE:** ActiveMQ Classic requires Java 7 to run and to build
 
 1.  From a browser, navigate to [activemq.apache.org/](http://activemq.apache.org/).
-2.  Click the [Download](download) link in the navigation pane (the left pane).
+2.  Click the [Download](../overview/download) link in the navigation pane (the left pane).
 3.  Select the latest distribution (for older releases, click the link to the archives).  
     For a source distribution, the filename will be similar to: `activemq-x.x-src.zip`.
 4.  Extract ActiveMQ Classic from the ZIP file into a directory of your choice.
@@ -103,7 +103,7 @@ This procedure explains how to download and install the latest developer's snaps
 **NOTE:** ActiveMQ Classic requires Java 7 to run and to build
 
 1.  From a browser, navigate to [activemq.apache.org/](http://activemq.apache.org/).
-2.  Click the [Download](download) link in the navigation pane (the left pane).
+2.  Click the [Download](../overview/download) link in the navigation pane (the left pane).
 3.  Click the Maven ActiveMQ Classic SNAPSHOT link.
 4.  Select the version of ActiveMQ Classic to download
 5.  Extract the files from the ZIP file into a directory of your choice.
@@ -143,7 +143,7 @@ This procedure explains how to download and install the source distribution on a
 **NOTE:** ActiveMQ Classic requires Java 7 to run and to build
 
 1.  From a browser, navigate to [activemq.apache.org/](http://activemq.apache.org/).
-2.  Click the [Download](download) link in the navigation pane (the left pane).
+2.  Click the [Download](../overview/download) link in the navigation pane (the left pane).
 3.  Click the Maven ActiveMQ Classic SNAPSHOT link.
 4.  Select the version of ActiveMQ Classic to download  
     For a source distribution, the filename will be similar to: `activemq-x.x-src.tar.gz`.
@@ -211,7 +211,7 @@ This procedure explains how to download and install the latest developer's snaps
 Starting ActiveMQ Classic
 -----------------
 
-There now follows instructions on how to [run the ActiveMQ Classic Message Broker](run-broker).
+There now follows instructions on how to [run the ActiveMQ Classic Message Broker](../using-activemq-classic/run-broker).
 
 See also [Starting ActiveMQ Classic with a different configuration file](#)
 
@@ -262,7 +262,7 @@ nohup bin/activemq > /tmp/smlog 2>&1 &
 
 ### More help
 
-For other ways of running the broker see [Here](run-broker). For example you can run an [embedded broker](how-do-i-embed-a-broker-inside-a-connection) inside your JMS Connection to avoid starting a separate process.
+For other ways of running the broker see [Here](../using-activemq-classic/run-broker). For example you can run an [embedded broker](../overview/faq/using-apache-activemq-classic/how-do-i-embed-a-broker-inside-a-connection) inside your JMS Connection to avoid starting a separate process.
 
 Testing the Installation
 ------------------------
@@ -288,14 +288,14 @@ netstat -an|grep 61616
 Monitoring ActiveMQ Classic
 -------------------
 
-You can monitor ActiveMQ Classic using the [Web Console](web-console) by pointing your browser at
+You can monitor ActiveMQ Classic using the [Web Console](../tools/web-console) by pointing your browser at
 
 [http://localhost:8161/admin](http://localhost:8161/admin)
 
 From ActiveMQ Classic 5.8 onwards the web apps is secured out of the box.  
 The default username and password is admin/admin. You can configure this in the conf/jetty-real.properties file.
 
-Or you can use the [JMX](jmx) support to view the running state of ActiveMQ Classic.
+Or you can use the [JMX](../features/jmx) support to view the running state of ActiveMQ Classic.
 
 For more information see the file `docs/WebConsole-README.txt` in the distribution.
 
@@ -354,18 +354,18 @@ bin/activemq start xbean:examples/conf/activemq-demo.xml
 Configuring ActiveMQ Classic
 --------------------
 
-The ActiveMQ Classic broker should now run. You can configure the broker by specifying an [Xml Configuration](xml-configuration) file as a parameter to the _activemq_ command. An alternative is to use the [Broker Configuration URI](broker-configuration-uri) to configure things on the command line in a concise format (though the configuration options are not as extensive as if you use Java or XML code). You can also
+The ActiveMQ Classic broker should now run. You can configure the broker by specifying an [Xml Configuration](../using-activemq-classic/xml-configuration) file as a parameter to the _activemq_ command. An alternative is to use the [Broker Configuration URI](../using-activemq-classic/configuring-transports/activemq-classic-connection-uris/broker-configuration-uri) to configure things on the command line in a concise format (though the configuration options are not as extensive as if you use Java or XML code). You can also
 
-Also see [Configuring Transports](configuring-transports) to see how you can configure the various connection, transport and broker options using the connection URL in the ActiveMQConnectionFactory.
+Also see [Configuring Transports](../using-activemq-classic/configuring-transports) to see how you can configure the various connection, transport and broker options using the connection URL in the ActiveMQConnectionFactory.
 
-See the [Initial Configuration](initial-configuration) for details of which jars you need to add to your classpath to start using ActiveMQ Classic in your Java code
+See the [Initial Configuration](../using-activemq-classic/initial-configuration) for details of which jars you need to add to your classpath to start using ActiveMQ Classic in your Java code
 
-If you want to use JNDI to connect to your JMS provider then please view the [JNDI Support](jndi-support). If you are a Spring user you should read about [Spring Support](spring-support)
+If you want to use JNDI to connect to your JMS provider then please view the [JNDI Support](../connectivity/containers/jndi-support). If you are a Spring user you should read about [Spring Support](../connectivity/containers/spring-support)
 
-After the installation, ActiveMQ Classic is running with a basic configuration. For details on configuring options, please see refer to the [Configuration](configuration) section.
+After the installation, ActiveMQ Classic is running with a basic configuration. For details on configuring options, please see refer to the [Configuration](../overview/faq/configuration) section.
 
 Additional Resources
 --------------------
 
-If you are new to using ActiveMQ Classic, running the [Web Samples](web-samples) or the [Examples](examples) is a good next step to learn more about ActiveMQ Classic.
+If you are new to using ActiveMQ Classic, running the [Web Samples](../using-activemq-classic/web-samples) or the [Examples](../using-activemq-classic/examples) is a good next step to learn more about ActiveMQ Classic.
 

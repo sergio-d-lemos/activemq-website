@@ -2,7 +2,7 @@
 title: "How does Classic compare to Artemis?"
 ---
 
- [FAQ](faq) > [General](general) > [How does Classic compare to Artemis?](how-does-classic-compare-to-artemis)
+ [FAQ](..) > [General](.) > [How does Classic compare to Artemis?](how-does-classic-compare-to-artemis)
 
 
 [Artemis](../../../components/artemis) is the codename used for the HornetQ code that was donated to the Apache Foundation.

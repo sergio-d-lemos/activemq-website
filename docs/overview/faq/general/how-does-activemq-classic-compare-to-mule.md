@@ -2,7 +2,7 @@
 title: "How does ActiveMQ Classic compare to Mule"
 ---
 
- [FAQ](faq) > [General](general) > [How does ActiveMQ Classic compare to Mule](how-does-activemq-classic-compare-to-mule)
+ [FAQ](..) > [General](.) > [How does ActiveMQ Classic compare to Mule](how-does-activemq-classic-compare-to-mule)
 
 
 Apache ActiveMQ Classic is a messaging provider, with extensive capabilities for message brokering. Mule is described as an ESB, in that it defines and executes the brokering of message exchanges among integrated software components.

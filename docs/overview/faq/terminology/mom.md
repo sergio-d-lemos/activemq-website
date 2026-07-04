@@ -2,7 +2,7 @@
 title: "MOM"
 ---
 
- [FAQ](faq) > [Terminology](terminology) > [MOM](mom)
+ [FAQ](..) > [Terminology](.) > [MOM](mom)
 
 
 Message Orientated Middleware. The art of building distributed systems using mostly asynchronous message passing with loosely coupled services consuming and emitting messages. So this includes JMS providers and message brokers.

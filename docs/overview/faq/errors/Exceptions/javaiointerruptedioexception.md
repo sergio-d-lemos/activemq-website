@@ -2,7 +2,7 @@
 title: "java.io.InterruptedIOException"
 ---
 
- [FAQ](faq) > [Errors](errors) > [Exceptions](exceptions) > [java.io.InterruptedIOException](javaiointerruptedioexception)
+ [FAQ](../..) > [Errors](..) > [Exceptions](.) > [java.io.InterruptedIOException](javaiointerruptedioexception)
 
 
 The activemq client will throw an [java.io](http://java.io).InterruptedIOException if  the calling thread has been interrupted while the transport (ResponseCorrelator) is waiting for a response.
